@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <code>{{example}}</code>
     <CBox
       v-bind="mainStyles[colorMode]"
       d="flex"
@@ -119,6 +120,15 @@ export default {
     CHeading
   },
   inject: ['$chakraColorMode', '$toggleColorMode'],
+  async asyncData({$axios}) {
+    const example = await $axios.$get('/api/pkmn/types/11')
+
+    console.log('[pkmn] loaded type:', example)
+
+    return {
+      example
+    }
+  },
   data () {
     return {
       showModal: false,

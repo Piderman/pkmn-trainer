@@ -38,6 +38,12 @@ export default {
     '@chakra-ui/nuxt',
     // https://go.nuxtjs.dev/emotion
     '@nuxtjs/emotion',
+    '@nuxt/content',
+    '@nuxtjs/axios',
+  ],
+
+  serverMiddleware: [
+    { path: 'api/pkmn/types', handler: 'server-middleware/pkmn/types' },
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
