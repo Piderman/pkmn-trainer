@@ -6,6 +6,8 @@ const getTypeData = async (host) => {
     process.env.NODE_ENV === 'production'
       ? process.env.BASE_URL
       : 'http://localhost:8888'
+
+  console.log('host?:', baseUrl)
   const { data } = await axios.get(`${baseUrl}/content/pkmn/types.json`)
 
   return data
