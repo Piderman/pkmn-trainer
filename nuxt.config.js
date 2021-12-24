@@ -1,6 +1,7 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  ssr: false,
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -40,10 +41,6 @@ export default {
     '@nuxtjs/emotion',
     '@nuxt/content',
     '@nuxtjs/axios',
-  ],
-
-  serverMiddleware: [
-    { path: 'api/pkmn/types', handler: 'server-middleware/pkmn/types' },
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

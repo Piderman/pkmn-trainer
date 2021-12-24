@@ -1,6 +1,12 @@
 <template>
   <div class="container">
-    <code>{{example}}</code>
+    <div>
+      <code>{{ typeData }}</code>
+    </div>
+    <CButton @click="fetchAll">all</CButton>
+    <CButton @click="fetchFire">fire</CButton>
+    <CButton @click="fetchGrass">grass</CButton>
+    <CButton @click="fetchWater">water</CButton>
     <CBox
       v-bind="mainStyles[colorMode]"
       d="flex"
@@ -120,17 +126,10 @@ export default {
     CHeading
   },
   inject: ['$chakraColorMode', '$toggleColorMode'],
-  async asyncData({$axios}) {
-    const example = await $axios.$get('/api/pkmn/types/11')
 
-    console.log('[pkmn] loaded type:', example)
-
-    return {
-      example
-    }
-  },
   data () {
     return {
+      typeData: null,
       showModal: false,
       mainStyles: {
         dark: {
@@ -156,6 +155,26 @@ export default {
     }
   },
   methods: {
+    async fetchAll() {
+      const response = await this.$axios.$get('/api/pkmn_types')
+
+      this.typeData = response
+    },
+    async fetchFire() {
+      const response = await this.$axios.$get('/api/pkmn_types/10')
+
+      this.typeData = response
+    },
+    async fetchGrass() {
+      const response = await this.$axios.$get('/api/pkmn_types/12')
+
+      this.typeData = response
+    },
+    async fetchWater() {
+      const response = await this.$axios.$get('/api/pkmn_types/11')
+
+      this.typeData = response
+    },
     showToast () {
       this.$toast({
         title: 'Account created.',
