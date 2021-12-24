@@ -2,7 +2,11 @@ const axios = require('axios')
 
 // todo: how to read host w.out passing it around
 const getTypeData = async (host) => {
-  const { data } = await axios.get(`http://${host}/content/pkmn/types.json`)
+  const baseUrl =
+    process.env.NODE_ENV === 'production'
+      ? process.env.BASE_URL
+      : 'http://localhost:8888'
+  const { data } = await axios.get(`${baseUrl}/content/pkmn/types.json`)
 
   return data
 }
