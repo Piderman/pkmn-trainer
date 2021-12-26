@@ -10,7 +10,8 @@ export default (_, inject) => {
    * get eng label of Type Id
    */
   const classification = (id) => {
-    const { identifier = '' } = typeData.find((entry) => entry.id === id) || {}
+    const { identifier = '' } =
+      typeData.find((entry) => entry.id.toString() === id.toString()) || {}
 
     return identifier
   }

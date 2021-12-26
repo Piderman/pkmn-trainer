@@ -1,3 +1,4 @@
+const { groupBy, multiply, orderBy } = require('lodash')
 const axios = require('axios')
 
 // todo: how to read host w.out passing it around
@@ -6,26 +7,77 @@ const getTypeData = async () => {
     `${process.env.URL}/content/pkmn/type-efficacy.json`
   )
 
-  return data
+  return data.filter(({ damage_factor }) => damage_factor !== 1)
 }
 
 const getTypeEfficacy = async (id) => {
-  const data = await getTypeData()
-  const typeToDamage = data.filter((entry) => entry.damage_type_id == id)
-  const typeToFrom = data.filter((entry) => entry.target_type_id == id)
+  const damageData = await getTypeData()
+
+  const attackingDamage = damageData
+    .filter((entry) => entry.damage_type_id == id)
+    .map(({ damage_factor, target_type_id }) => {
+      return {
+        damage_factor,
+        id: target_type_id,
+      }
+    })
+
+  const defendingDamage = damageData
+    .filter((entry) => entry.target_type_id == id)
+    .map(({ damage_factor, damage_type_id }) => {
+      return {
+        damage_factor,
+        id: damage_type_id,
+      }
+    })
 
   return {
-    to: typeToDamage,
-    from: typeToFrom,
+    offense: orderBy(attackingDamage, 'damage_factor', 'desc'),
+    defense: orderBy(defendingDamage, 'damage_factor', 'desc'),
   }
+}
+
+const getDualTypeEfficacy = async ([primary, secondary]) => {
+  const primaryType = await getTypeEfficacy(primary)
+  const secondaryType = await getTypeEfficacy(secondary)
+
+  const allDefense = groupBy(
+    primaryType.defense.concat(secondaryType.defense),
+    'id'
+  )
+
+  return {
+    offense: primaryType.offense,
+    defense: calculateDualTypeEffectiveness(allDefense),
+    secondaryOffense: secondaryType.offense,
+  }
+}
+
+const calculateDualTypeEffectiveness = (damageTypes) => {
+  return orderBy(
+    Object.entries(damageTypes).map(([id, damageFactors]) => {
+      return {
+        damage_factor: multiply(
+          ...damageFactors.map((entry) => entry.damage_factor)
+        ),
+        id,
+      }
+    }),
+    'damage_factor',
+    'desc'
+  )
 }
 
 const handler = async (event) => {
   try {
-    const typeArg = event.path.split('/').pop()
+    const [_, typeArgs] = event.path.split('pkmn_type_efficacy/')
+
+    const typeIds = typeArgs.split('/')
 
     const response =
-      typeArg === 'pkmn_type_efficacy' ? {} : await getTypeEfficacy(typeArg)
+      typeIds.length === 1
+        ? await getTypeEfficacy(typeIds)
+        : await getDualTypeEfficacy(typeIds)
 
     return {
       statusCode: 200,
