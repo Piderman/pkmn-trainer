@@ -1,11 +1,11 @@
 <template>
   <CBox p="4">
-    <CHeading as="h1">Tesing Pkmn</CHeading>
+    <CHeading as="h1">Testing Pkmn</CHeading>
     <CFormControl>
       <CStack>
         <CFormLabel for="id_Lookup">Pokemon id:</CFormLabel>
         <CInput name="id_Lookup" v-model="pkmnId" />
-        <CButton @click="fetchPokemonById">Search</CButton>
+        <CButton @click="handlePokemonSearch">Search</CButton>
       </CStack>
     </CFormControl>
     <CDivider my="4" />
@@ -14,9 +14,9 @@
       <CImage :src="thumbnail" htmlWidth="40px" />
       <div>
         <CBadge
-          v-for="(label, index) in pokemon.typeLabels"
+          v-for="(label, index) in pokemon.types"
           :key="index"
-          v-text="label"
+          v-text="$pkmnLabels.classification(label)"
           mx="2"
         />
       </div>
@@ -60,15 +60,10 @@ export default {
   },
 
   methods: {
-    async fetchPokemonById() {
-      const foundPokemon = await this.$axios.$get(`/api/pkmn/${this.pkmnId}`)
-      const translatedTypes = await Promise.all(
-        foundPokemon?.types.map((pkmnType) =>
-          this.$axios.$get(`/api/pkmn_types/${pkmnType}`)
-        )
-      ).then((response) => response.map((entry) => entry.identifier))
+    async handlePokemonSearch() {
+      const foundPokemon = await this.$api.fetchPokemonById(this.pkmnId)
 
-      this.pokemon = { ...foundPokemon, typeLabels: translatedTypes }
+      this.pokemon = foundPokemon
     },
   },
   computed: {
