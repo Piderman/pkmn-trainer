@@ -14,7 +14,7 @@ const getAllTypes = async (host) => {
 
 const getSingleType = async (host, id) => {
   const all = await getAllTypes(host)
-  const singleType = all.find((entry) => entry.id == id)
+  const singleType = all.find((entry) => entry.id.toString() == id.toString())
 
   return singleType
 }

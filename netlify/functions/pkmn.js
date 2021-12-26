@@ -11,7 +11,9 @@ const getPokemon = async () => {
 
   const parsedPokemon = pkmnData.map((pkmn) => {
     const types =
-      pkmnTypes.filter((pkmnType) => pkmnType.pokemon_id === pkmn.id) || []
+      pkmnTypes.filter(
+        (pkmnType) => pkmnType.pokemon_id.toString() === pkmn.id.toString()
+      ) || []
 
     return {
       ...pkmn,
@@ -29,7 +31,7 @@ const getAllPkmn = async () => {
 const getPkmnById = async (id) => {
   const pkmn = await getPokemon()
 
-  const thisPkmn = pkmn.find((pkmn) => pkmn.id == id)
+  const thisPkmn = pkmn.find((pkmn) => pkmn.id.toString() == id.toString())
 
   return thisPkmn
 }
