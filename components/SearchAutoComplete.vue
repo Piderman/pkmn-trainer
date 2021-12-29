@@ -50,7 +50,7 @@ export default {
     async fetchPokemonResults(query) {
       const results = await this.$content('pkmn/pokemon')
         .where({
-          identifier: { $regex: query },
+          identifier: { $regex: [query, 'i'] },
         })
         .fetch()
         .catch(() => [])
