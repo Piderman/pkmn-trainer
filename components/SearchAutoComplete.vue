@@ -40,19 +40,11 @@ export default {
   data() {
     return {
       // todo: move to state?
-      pkmnLookup: [],
       autocompleteResults: [],
       queryModel: '', // pika
       id: '',
       isShowResults: false,
     }
-  },
-  async fetch() {
-    const allPkmn = await this.$content('pkmn/pokemon')
-      .fetch()
-      .catch(() => [])
-
-    this.pkmnLookup = allPkmn
   },
   methods: {
     async fetchPokemonResults(query) {
