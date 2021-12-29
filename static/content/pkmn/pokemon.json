@@ -1,5592 +1,6428 @@
 [
   {
     "id": 1,
+    "slug": 1,
     "identifier": "bulbasaur",
     "species_id": 1
   },
   {
     "id": 2,
+    "slug": 2,
     "identifier": "ivysaur",
     "species_id": 2
   },
   {
     "id": 3,
+    "slug": 3,
     "identifier": "venusaur",
     "species_id": 3
   },
   {
     "id": 4,
+    "slug": 4,
     "identifier": "charmander",
     "species_id": 4
   },
   {
     "id": 5,
+    "slug": 5,
     "identifier": "charmeleon",
     "species_id": 5
   },
   {
     "id": 6,
+    "slug": 6,
     "identifier": "charizard",
     "species_id": 6
   },
   {
     "id": 7,
+    "slug": 7,
     "identifier": "squirtle",
     "species_id": 7
   },
   {
     "id": 8,
+    "slug": 8,
     "identifier": "wartortle",
     "species_id": 8
   },
   {
     "id": 9,
+    "slug": 9,
     "identifier": "blastoise",
     "species_id": 9
   },
   {
     "id": 10,
+    "slug": 10,
     "identifier": "caterpie",
     "species_id": 10
   },
   {
     "id": 11,
+    "slug": 11,
     "identifier": "metapod",
     "species_id": 11
   },
   {
     "id": 12,
+    "slug": 12,
     "identifier": "butterfree",
     "species_id": 12
   },
   {
     "id": 13,
+    "slug": 13,
     "identifier": "weedle",
     "species_id": 13
   },
   {
     "id": 14,
+    "slug": 14,
     "identifier": "kakuna",
     "species_id": 14
   },
   {
     "id": 15,
+    "slug": 15,
     "identifier": "beedrill",
     "species_id": 15
   },
   {
     "id": 16,
+    "slug": 16,
     "identifier": "pidgey",
     "species_id": 16
   },
   {
     "id": 17,
+    "slug": 17,
     "identifier": "pidgeotto",
     "species_id": 17
   },
   {
     "id": 18,
+    "slug": 18,
     "identifier": "pidgeot",
     "species_id": 18
   },
   {
     "id": 19,
+    "slug": 19,
     "identifier": "rattata",
     "species_id": 19
   },
   {
     "id": 20,
+    "slug": 20,
     "identifier": "raticate",
     "species_id": 20
   },
   {
     "id": 21,
+    "slug": 21,
     "identifier": "spearow",
     "species_id": 21
   },
   {
     "id": 22,
+    "slug": 22,
     "identifier": "fearow",
     "species_id": 22
   },
   {
     "id": 23,
+    "slug": 23,
     "identifier": "ekans",
     "species_id": 23
   },
   {
     "id": 24,
+    "slug": 24,
     "identifier": "arbok",
     "species_id": 24
   },
   {
     "id": 25,
+    "slug": 25,
     "identifier": "pikachu",
     "species_id": 25
   },
   {
     "id": 26,
+    "slug": 26,
     "identifier": "raichu",
     "species_id": 26
   },
   {
     "id": 27,
+    "slug": 27,
     "identifier": "sandshrew",
     "species_id": 27
   },
   {
     "id": 28,
+    "slug": 28,
     "identifier": "sandslash",
     "species_id": 28
   },
   {
     "id": 29,
+    "slug": 29,
     "identifier": "nidoran-f",
     "species_id": 29
   },
   {
     "id": 30,
+    "slug": 30,
     "identifier": "nidorina",
     "species_id": 30
   },
   {
     "id": 31,
+    "slug": 31,
     "identifier": "nidoqueen",
     "species_id": 31
   },
   {
     "id": 32,
+    "slug": 32,
     "identifier": "nidoran-m",
     "species_id": 32
   },
   {
     "id": 33,
+    "slug": 33,
     "identifier": "nidorino",
     "species_id": 33
   },
   {
     "id": 34,
+    "slug": 34,
     "identifier": "nidoking",
     "species_id": 34
   },
   {
     "id": 35,
+    "slug": 35,
     "identifier": "clefairy",
     "species_id": 35
   },
   {
     "id": 36,
+    "slug": 36,
     "identifier": "clefable",
     "species_id": 36
   },
   {
     "id": 37,
+    "slug": 37,
     "identifier": "vulpix",
     "species_id": 37
   },
   {
     "id": 38,
+    "slug": 38,
     "identifier": "ninetales",
     "species_id": 38
   },
   {
     "id": 39,
+    "slug": 39,
     "identifier": "jigglypuff",
     "species_id": 39
   },
   {
     "id": 40,
+    "slug": 40,
     "identifier": "wigglytuff",
     "species_id": 40
   },
   {
     "id": 41,
+    "slug": 41,
     "identifier": "zubat",
     "species_id": 41
   },
   {
     "id": 42,
+    "slug": 42,
     "identifier": "golbat",
     "species_id": 42
   },
   {
     "id": 43,
+    "slug": 43,
     "identifier": "oddish",
     "species_id": 43
   },
   {
     "id": 44,
+    "slug": 44,
     "identifier": "gloom",
     "species_id": 44
   },
   {
     "id": 45,
+    "slug": 45,
     "identifier": "vileplume",
     "species_id": 45
   },
   {
     "id": 46,
+    "slug": 46,
     "identifier": "paras",
     "species_id": 46
   },
   {
     "id": 47,
+    "slug": 47,
     "identifier": "parasect",
     "species_id": 47
   },
   {
     "id": 48,
+    "slug": 48,
     "identifier": "venonat",
     "species_id": 48
   },
   {
     "id": 49,
+    "slug": 49,
     "identifier": "venomoth",
     "species_id": 49
   },
   {
     "id": 50,
+    "slug": 50,
     "identifier": "diglett",
     "species_id": 50
   },
   {
     "id": 51,
+    "slug": 51,
     "identifier": "dugtrio",
     "species_id": 51
   },
   {
     "id": 52,
+    "slug": 52,
     "identifier": "meowth",
     "species_id": 52
   },
   {
     "id": 53,
+    "slug": 53,
     "identifier": "persian",
     "species_id": 53
   },
   {
     "id": 54,
+    "slug": 54,
     "identifier": "psyduck",
     "species_id": 54
   },
   {
     "id": 55,
+    "slug": 55,
     "identifier": "golduck",
     "species_id": 55
   },
   {
     "id": 56,
+    "slug": 56,
     "identifier": "mankey",
     "species_id": 56
   },
   {
     "id": 57,
+    "slug": 57,
     "identifier": "primeape",
     "species_id": 57
   },
   {
     "id": 58,
+    "slug": 58,
     "identifier": "growlithe",
     "species_id": 58
   },
   {
     "id": 59,
+    "slug": 59,
     "identifier": "arcanine",
     "species_id": 59
   },
   {
     "id": 60,
+    "slug": 60,
     "identifier": "poliwag",
     "species_id": 60
   },
   {
     "id": 61,
+    "slug": 61,
     "identifier": "poliwhirl",
     "species_id": 61
   },
   {
     "id": 62,
+    "slug": 62,
     "identifier": "poliwrath",
     "species_id": 62
   },
   {
     "id": 63,
+    "slug": 63,
     "identifier": "abra",
     "species_id": 63
   },
   {
     "id": 64,
+    "slug": 64,
     "identifier": "kadabra",
     "species_id": 64
   },
   {
     "id": 65,
+    "slug": 65,
     "identifier": "alakazam",
     "species_id": 65
   },
   {
     "id": 66,
+    "slug": 66,
     "identifier": "machop",
     "species_id": 66
   },
   {
     "id": 67,
+    "slug": 67,
     "identifier": "machoke",
     "species_id": 67
   },
   {
     "id": 68,
+    "slug": 68,
     "identifier": "machamp",
     "species_id": 68
   },
   {
     "id": 69,
+    "slug": 69,
     "identifier": "bellsprout",
     "species_id": 69
   },
   {
     "id": 70,
+    "slug": 70,
     "identifier": "weepinbell",
     "species_id": 70
   },
   {
     "id": 71,
+    "slug": 71,
     "identifier": "victreebel",
     "species_id": 71
   },
   {
     "id": 72,
+    "slug": 72,
     "identifier": "tentacool",
     "species_id": 72
   },
   {
     "id": 73,
+    "slug": 73,
     "identifier": "tentacruel",
     "species_id": 73
   },
   {
     "id": 74,
+    "slug": 74,
     "identifier": "geodude",
     "species_id": 74
   },
   {
     "id": 75,
+    "slug": 75,
     "identifier": "graveler",
     "species_id": 75
   },
   {
     "id": 76,
+    "slug": 76,
     "identifier": "golem",
     "species_id": 76
   },
   {
     "id": 77,
+    "slug": 77,
     "identifier": "ponyta",
     "species_id": 77
   },
   {
     "id": 78,
+    "slug": 78,
     "identifier": "rapidash",
     "species_id": 78
   },
   {
     "id": 79,
+    "slug": 79,
     "identifier": "slowpoke",
     "species_id": 79
   },
   {
     "id": 80,
+    "slug": 80,
     "identifier": "slowbro",
     "species_id": 80
   },
   {
     "id": 81,
+    "slug": 81,
     "identifier": "magnemite",
     "species_id": 81
   },
   {
     "id": 82,
+    "slug": 82,
     "identifier": "magneton",
     "species_id": 82
   },
   {
     "id": 83,
+    "slug": 83,
     "identifier": "farfetchd",
     "species_id": 83
   },
   {
     "id": 84,
+    "slug": 84,
     "identifier": "doduo",
     "species_id": 84
   },
   {
     "id": 85,
+    "slug": 85,
     "identifier": "dodrio",
     "species_id": 85
   },
   {
     "id": 86,
+    "slug": 86,
     "identifier": "seel",
     "species_id": 86
   },
   {
     "id": 87,
+    "slug": 87,
     "identifier": "dewgong",
     "species_id": 87
   },
   {
     "id": 88,
+    "slug": 88,
     "identifier": "grimer",
     "species_id": 88
   },
   {
     "id": 89,
+    "slug": 89,
     "identifier": "muk",
     "species_id": 89
   },
   {
     "id": 90,
+    "slug": 90,
     "identifier": "shellder",
     "species_id": 90
   },
   {
     "id": 91,
+    "slug": 91,
     "identifier": "cloyster",
     "species_id": 91
   },
   {
     "id": 92,
+    "slug": 92,
     "identifier": "gastly",
     "species_id": 92
   },
   {
     "id": 93,
+    "slug": 93,
     "identifier": "haunter",
     "species_id": 93
   },
   {
     "id": 94,
+    "slug": 94,
     "identifier": "gengar",
     "species_id": 94
   },
   {
     "id": 95,
+    "slug": 95,
     "identifier": "onix",
     "species_id": 95
   },
   {
     "id": 96,
+    "slug": 96,
     "identifier": "drowzee",
     "species_id": 96
   },
   {
     "id": 97,
+    "slug": 97,
     "identifier": "hypno",
     "species_id": 97
   },
   {
     "id": 98,
+    "slug": 98,
     "identifier": "krabby",
     "species_id": 98
   },
   {
     "id": 99,
+    "slug": 99,
     "identifier": "kingler",
     "species_id": 99
   },
   {
     "id": 100,
+    "slug": 100,
     "identifier": "voltorb",
     "species_id": 100
   },
   {
     "id": 101,
+    "slug": 101,
     "identifier": "electrode",
     "species_id": 101
   },
   {
     "id": 102,
+    "slug": 102,
     "identifier": "exeggcute",
     "species_id": 102
   },
   {
     "id": 103,
+    "slug": 103,
     "identifier": "exeggutor",
     "species_id": 103
   },
   {
     "id": 104,
+    "slug": 104,
     "identifier": "cubone",
     "species_id": 104
   },
   {
     "id": 105,
+    "slug": 105,
     "identifier": "marowak",
     "species_id": 105
   },
   {
     "id": 106,
+    "slug": 106,
     "identifier": "hitmonlee",
     "species_id": 106
   },
   {
     "id": 107,
+    "slug": 107,
     "identifier": "hitmonchan",
     "species_id": 107
   },
   {
     "id": 108,
+    "slug": 108,
     "identifier": "lickitung",
     "species_id": 108
   },
   {
     "id": 109,
+    "slug": 109,
     "identifier": "koffing",
     "species_id": 109
   },
   {
     "id": 110,
+    "slug": 110,
     "identifier": "weezing",
     "species_id": 110
   },
   {
     "id": 111,
+    "slug": 111,
     "identifier": "rhyhorn",
     "species_id": 111
   },
   {
     "id": 112,
+    "slug": 112,
     "identifier": "rhydon",
     "species_id": 112
   },
   {
     "id": 113,
+    "slug": 113,
     "identifier": "chansey",
     "species_id": 113
   },
   {
     "id": 114,
+    "slug": 114,
     "identifier": "tangela",
     "species_id": 114
   },
   {
     "id": 115,
+    "slug": 115,
     "identifier": "kangaskhan",
     "species_id": 115
   },
   {
     "id": 116,
+    "slug": 116,
     "identifier": "horsea",
     "species_id": 116
   },
   {
     "id": 117,
+    "slug": 117,
     "identifier": "seadra",
     "species_id": 117
   },
   {
     "id": 118,
+    "slug": 118,
     "identifier": "goldeen",
     "species_id": 118
   },
   {
     "id": 119,
+    "slug": 119,
     "identifier": "seaking",
     "species_id": 119
   },
   {
     "id": 120,
+    "slug": 120,
     "identifier": "staryu",
     "species_id": 120
   },
   {
     "id": 121,
+    "slug": 121,
     "identifier": "starmie",
     "species_id": 121
   },
   {
     "id": 122,
+    "slug": 122,
     "identifier": "mr-mime",
     "species_id": 122
   },
   {
     "id": 123,
+    "slug": 123,
     "identifier": "scyther",
     "species_id": 123
   },
   {
     "id": 124,
+    "slug": 124,
     "identifier": "jynx",
     "species_id": 124
   },
   {
     "id": 125,
+    "slug": 125,
     "identifier": "electabuzz",
     "species_id": 125
   },
   {
     "id": 126,
+    "slug": 126,
     "identifier": "magmar",
     "species_id": 126
   },
   {
     "id": 127,
+    "slug": 127,
     "identifier": "pinsir",
     "species_id": 127
   },
   {
     "id": 128,
+    "slug": 128,
     "identifier": "tauros",
     "species_id": 128
   },
   {
     "id": 129,
+    "slug": 129,
     "identifier": "magikarp",
     "species_id": 129
   },
   {
     "id": 130,
+    "slug": 130,
     "identifier": "gyarados",
     "species_id": 130
   },
   {
     "id": 131,
+    "slug": 131,
     "identifier": "lapras",
     "species_id": 131
   },
   {
     "id": 132,
+    "slug": 132,
     "identifier": "ditto",
     "species_id": 132
   },
   {
     "id": 133,
+    "slug": 133,
     "identifier": "eevee",
     "species_id": 133
   },
   {
     "id": 134,
+    "slug": 134,
     "identifier": "vaporeon",
     "species_id": 134
   },
   {
     "id": 135,
+    "slug": 135,
     "identifier": "jolteon",
     "species_id": 135
   },
   {
     "id": 136,
+    "slug": 136,
     "identifier": "flareon",
     "species_id": 136
   },
   {
     "id": 137,
+    "slug": 137,
     "identifier": "porygon",
     "species_id": 137
   },
   {
     "id": 138,
+    "slug": 138,
     "identifier": "omanyte",
     "species_id": 138
   },
   {
     "id": 139,
+    "slug": 139,
     "identifier": "omastar",
     "species_id": 139
   },
   {
     "id": 140,
+    "slug": 140,
     "identifier": "kabuto",
     "species_id": 140
   },
   {
     "id": 141,
+    "slug": 141,
     "identifier": "kabutops",
     "species_id": 141
   },
   {
     "id": 142,
+    "slug": 142,
     "identifier": "aerodactyl",
     "species_id": 142
   },
   {
     "id": 143,
+    "slug": 143,
     "identifier": "snorlax",
     "species_id": 143
   },
   {
     "id": 144,
+    "slug": 144,
     "identifier": "articuno",
     "species_id": 144
   },
   {
     "id": 145,
+    "slug": 145,
     "identifier": "zapdos",
     "species_id": 145
   },
   {
     "id": 146,
+    "slug": 146,
     "identifier": "moltres",
     "species_id": 146
   },
   {
     "id": 147,
+    "slug": 147,
     "identifier": "dratini",
     "species_id": 147
   },
   {
     "id": 148,
+    "slug": 148,
     "identifier": "dragonair",
     "species_id": 148
   },
   {
     "id": 149,
+    "slug": 149,
     "identifier": "dragonite",
     "species_id": 149
   },
   {
     "id": 150,
+    "slug": 150,
     "identifier": "mewtwo",
     "species_id": 150
   },
   {
     "id": 151,
+    "slug": 151,
     "identifier": "mew",
     "species_id": 151
   },
   {
     "id": 152,
+    "slug": 152,
     "identifier": "chikorita",
     "species_id": 152
   },
   {
     "id": 153,
+    "slug": 153,
     "identifier": "bayleef",
     "species_id": 153
   },
   {
     "id": 154,
+    "slug": 154,
     "identifier": "meganium",
     "species_id": 154
   },
   {
     "id": 155,
+    "slug": 155,
     "identifier": "cyndaquil",
     "species_id": 155
   },
   {
     "id": 156,
+    "slug": 156,
     "identifier": "quilava",
     "species_id": 156
   },
   {
     "id": 157,
+    "slug": 157,
     "identifier": "typhlosion",
     "species_id": 157
   },
   {
     "id": 158,
+    "slug": 158,
     "identifier": "totodile",
     "species_id": 158
   },
   {
     "id": 159,
+    "slug": 159,
     "identifier": "croconaw",
     "species_id": 159
   },
   {
     "id": 160,
+    "slug": 160,
     "identifier": "feraligatr",
     "species_id": 160
   },
   {
     "id": 161,
+    "slug": 161,
     "identifier": "sentret",
     "species_id": 161
   },
   {
     "id": 162,
+    "slug": 162,
     "identifier": "furret",
     "species_id": 162
   },
   {
     "id": 163,
+    "slug": 163,
     "identifier": "hoothoot",
     "species_id": 163
   },
   {
     "id": 164,
+    "slug": 164,
     "identifier": "noctowl",
     "species_id": 164
   },
   {
     "id": 165,
+    "slug": 165,
     "identifier": "ledyba",
     "species_id": 165
   },
   {
     "id": 166,
+    "slug": 166,
     "identifier": "ledian",
     "species_id": 166
   },
   {
     "id": 167,
+    "slug": 167,
     "identifier": "spinarak",
     "species_id": 167
   },
   {
     "id": 168,
+    "slug": 168,
     "identifier": "ariados",
     "species_id": 168
   },
   {
     "id": 169,
+    "slug": 169,
     "identifier": "crobat",
     "species_id": 169
   },
   {
     "id": 170,
+    "slug": 170,
     "identifier": "chinchou",
     "species_id": 170
   },
   {
     "id": 171,
+    "slug": 171,
     "identifier": "lanturn",
     "species_id": 171
   },
   {
     "id": 172,
+    "slug": 172,
     "identifier": "pichu",
     "species_id": 172
   },
   {
     "id": 173,
+    "slug": 173,
     "identifier": "cleffa",
     "species_id": 173
   },
   {
     "id": 174,
+    "slug": 174,
     "identifier": "igglybuff",
     "species_id": 174
   },
   {
     "id": 175,
+    "slug": 175,
     "identifier": "togepi",
     "species_id": 175
   },
   {
     "id": 176,
+    "slug": 176,
     "identifier": "togetic",
     "species_id": 176
   },
   {
     "id": 177,
+    "slug": 177,
     "identifier": "natu",
     "species_id": 177
   },
   {
     "id": 178,
+    "slug": 178,
     "identifier": "xatu",
     "species_id": 178
   },
   {
     "id": 179,
+    "slug": 179,
     "identifier": "mareep",
     "species_id": 179
   },
   {
     "id": 180,
+    "slug": 180,
     "identifier": "flaaffy",
     "species_id": 180
   },
   {
     "id": 181,
+    "slug": 181,
     "identifier": "ampharos",
     "species_id": 181
   },
   {
     "id": 182,
+    "slug": 182,
     "identifier": "bellossom",
     "species_id": 182
   },
   {
     "id": 183,
+    "slug": 183,
     "identifier": "marill",
     "species_id": 183
   },
   {
     "id": 184,
+    "slug": 184,
     "identifier": "azumarill",
     "species_id": 184
   },
   {
     "id": 185,
+    "slug": 185,
     "identifier": "sudowoodo",
     "species_id": 185
   },
   {
     "id": 186,
+    "slug": 186,
     "identifier": "politoed",
     "species_id": 186
   },
   {
     "id": 187,
+    "slug": 187,
     "identifier": "hoppip",
     "species_id": 187
   },
   {
     "id": 188,
+    "slug": 188,
     "identifier": "skiploom",
     "species_id": 188
   },
   {
     "id": 189,
+    "slug": 189,
     "identifier": "jumpluff",
     "species_id": 189
   },
   {
     "id": 190,
+    "slug": 190,
     "identifier": "aipom",
     "species_id": 190
   },
   {
     "id": 191,
+    "slug": 191,
     "identifier": "sunkern",
     "species_id": 191
   },
   {
     "id": 192,
+    "slug": 192,
     "identifier": "sunflora",
     "species_id": 192
   },
   {
     "id": 193,
+    "slug": 193,
     "identifier": "yanma",
     "species_id": 193
   },
   {
     "id": 194,
+    "slug": 194,
     "identifier": "wooper",
     "species_id": 194
   },
   {
     "id": 195,
+    "slug": 195,
     "identifier": "quagsire",
     "species_id": 195
   },
   {
     "id": 196,
+    "slug": 196,
     "identifier": "espeon",
     "species_id": 196
   },
   {
     "id": 197,
+    "slug": 197,
     "identifier": "umbreon",
     "species_id": 197
   },
   {
     "id": 198,
+    "slug": 198,
     "identifier": "murkrow",
     "species_id": 198
   },
   {
     "id": 199,
+    "slug": 199,
     "identifier": "slowking",
     "species_id": 199
   },
   {
     "id": 200,
+    "slug": 200,
     "identifier": "misdreavus",
     "species_id": 200
   },
   {
     "id": 201,
+    "slug": 201,
     "identifier": "unown",
     "species_id": 201
   },
   {
     "id": 202,
+    "slug": 202,
     "identifier": "wobbuffet",
     "species_id": 202
   },
   {
     "id": 203,
+    "slug": 203,
     "identifier": "girafarig",
     "species_id": 203
   },
   {
     "id": 204,
+    "slug": 204,
     "identifier": "pineco",
     "species_id": 204
   },
   {
     "id": 205,
+    "slug": 205,
     "identifier": "forretress",
     "species_id": 205
   },
   {
     "id": 206,
+    "slug": 206,
     "identifier": "dunsparce",
     "species_id": 206
   },
   {
     "id": 207,
+    "slug": 207,
     "identifier": "gligar",
     "species_id": 207
   },
   {
     "id": 208,
+    "slug": 208,
     "identifier": "steelix",
     "species_id": 208
   },
   {
     "id": 209,
+    "slug": 209,
     "identifier": "snubbull",
     "species_id": 209
   },
   {
     "id": 210,
+    "slug": 210,
     "identifier": "granbull",
     "species_id": 210
   },
   {
     "id": 211,
+    "slug": 211,
     "identifier": "qwilfish",
     "species_id": 211
   },
   {
     "id": 212,
+    "slug": 212,
     "identifier": "scizor",
     "species_id": 212
   },
   {
     "id": 213,
+    "slug": 213,
     "identifier": "shuckle",
     "species_id": 213
   },
   {
     "id": 214,
+    "slug": 214,
     "identifier": "heracross",
     "species_id": 214
   },
   {
     "id": 215,
+    "slug": 215,
     "identifier": "sneasel",
     "species_id": 215
   },
   {
     "id": 216,
+    "slug": 216,
     "identifier": "teddiursa",
     "species_id": 216
   },
   {
     "id": 217,
+    "slug": 217,
     "identifier": "ursaring",
     "species_id": 217
   },
   {
     "id": 218,
+    "slug": 218,
     "identifier": "slugma",
     "species_id": 218
   },
   {
     "id": 219,
+    "slug": 219,
     "identifier": "magcargo",
     "species_id": 219
   },
   {
     "id": 220,
+    "slug": 220,
     "identifier": "swinub",
     "species_id": 220
   },
   {
     "id": 221,
+    "slug": 221,
     "identifier": "piloswine",
     "species_id": 221
   },
   {
     "id": 222,
+    "slug": 222,
     "identifier": "corsola",
     "species_id": 222
   },
   {
     "id": 223,
+    "slug": 223,
     "identifier": "remoraid",
     "species_id": 223
   },
   {
     "id": 224,
+    "slug": 224,
     "identifier": "octillery",
     "species_id": 224
   },
   {
     "id": 225,
+    "slug": 225,
     "identifier": "delibird",
     "species_id": 225
   },
   {
     "id": 226,
+    "slug": 226,
     "identifier": "mantine",
     "species_id": 226
   },
   {
     "id": 227,
+    "slug": 227,
     "identifier": "skarmory",
     "species_id": 227
   },
   {
     "id": 228,
+    "slug": 228,
     "identifier": "houndour",
     "species_id": 228
   },
   {
     "id": 229,
+    "slug": 229,
     "identifier": "houndoom",
     "species_id": 229
   },
   {
     "id": 230,
+    "slug": 230,
     "identifier": "kingdra",
     "species_id": 230
   },
   {
     "id": 231,
+    "slug": 231,
     "identifier": "phanpy",
     "species_id": 231
   },
   {
     "id": 232,
+    "slug": 232,
     "identifier": "donphan",
     "species_id": 232
   },
   {
     "id": 233,
+    "slug": 233,
     "identifier": "porygon2",
     "species_id": 233
   },
   {
     "id": 234,
+    "slug": 234,
     "identifier": "stantler",
     "species_id": 234
   },
   {
     "id": 235,
+    "slug": 235,
     "identifier": "smeargle",
     "species_id": 235
   },
   {
     "id": 236,
+    "slug": 236,
     "identifier": "tyrogue",
     "species_id": 236
   },
   {
     "id": 237,
+    "slug": 237,
     "identifier": "hitmontop",
     "species_id": 237
   },
   {
     "id": 238,
+    "slug": 238,
     "identifier": "smoochum",
     "species_id": 238
   },
   {
     "id": 239,
+    "slug": 239,
     "identifier": "elekid",
     "species_id": 239
   },
   {
     "id": 240,
+    "slug": 240,
     "identifier": "magby",
     "species_id": 240
   },
   {
     "id": 241,
+    "slug": 241,
     "identifier": "miltank",
     "species_id": 241
   },
   {
     "id": 242,
+    "slug": 242,
     "identifier": "blissey",
     "species_id": 242
   },
   {
     "id": 243,
+    "slug": 243,
     "identifier": "raikou",
     "species_id": 243
   },
   {
     "id": 244,
+    "slug": 244,
     "identifier": "entei",
     "species_id": 244
   },
   {
     "id": 245,
+    "slug": 245,
     "identifier": "suicune",
     "species_id": 245
   },
   {
     "id": 246,
+    "slug": 246,
     "identifier": "larvitar",
     "species_id": 246
   },
   {
     "id": 247,
+    "slug": 247,
     "identifier": "pupitar",
     "species_id": 247
   },
   {
     "id": 248,
+    "slug": 248,
     "identifier": "tyranitar",
     "species_id": 248
   },
   {
     "id": 249,
+    "slug": 249,
     "identifier": "lugia",
     "species_id": 249
   },
   {
     "id": 250,
+    "slug": 250,
     "identifier": "ho-oh",
     "species_id": 250
   },
   {
     "id": 251,
+    "slug": 251,
     "identifier": "celebi",
     "species_id": 251
   },
   {
     "id": 252,
+    "slug": 252,
     "identifier": "treecko",
     "species_id": 252
   },
   {
     "id": 253,
+    "slug": 253,
     "identifier": "grovyle",
     "species_id": 253
   },
   {
     "id": 254,
+    "slug": 254,
     "identifier": "sceptile",
     "species_id": 254
   },
   {
     "id": 255,
+    "slug": 255,
     "identifier": "torchic",
     "species_id": 255
   },
   {
     "id": 256,
+    "slug": 256,
     "identifier": "combusken",
     "species_id": 256
   },
   {
     "id": 257,
+    "slug": 257,
     "identifier": "blaziken",
     "species_id": 257
   },
   {
     "id": 258,
+    "slug": 258,
     "identifier": "mudkip",
     "species_id": 258
   },
   {
     "id": 259,
+    "slug": 259,
     "identifier": "marshtomp",
     "species_id": 259
   },
   {
     "id": 260,
+    "slug": 260,
     "identifier": "swampert",
     "species_id": 260
   },
   {
     "id": 261,
+    "slug": 261,
     "identifier": "poochyena",
     "species_id": 261
   },
   {
     "id": 262,
+    "slug": 262,
     "identifier": "mightyena",
     "species_id": 262
   },
   {
     "id": 263,
+    "slug": 263,
     "identifier": "zigzagoon",
     "species_id": 263
   },
   {
     "id": 264,
+    "slug": 264,
     "identifier": "linoone",
     "species_id": 264
   },
   {
     "id": 265,
+    "slug": 265,
     "identifier": "wurmple",
     "species_id": 265
   },
   {
     "id": 266,
+    "slug": 266,
     "identifier": "silcoon",
     "species_id": 266
   },
   {
     "id": 267,
+    "slug": 267,
     "identifier": "beautifly",
     "species_id": 267
   },
   {
     "id": 268,
+    "slug": 268,
     "identifier": "cascoon",
     "species_id": 268
   },
   {
     "id": 269,
+    "slug": 269,
     "identifier": "dustox",
     "species_id": 269
   },
   {
     "id": 270,
+    "slug": 270,
     "identifier": "lotad",
     "species_id": 270
   },
   {
     "id": 271,
+    "slug": 271,
     "identifier": "lombre",
     "species_id": 271
   },
   {
     "id": 272,
+    "slug": 272,
     "identifier": "ludicolo",
     "species_id": 272
   },
   {
     "id": 273,
+    "slug": 273,
     "identifier": "seedot",
     "species_id": 273
   },
   {
     "id": 274,
+    "slug": 274,
     "identifier": "nuzleaf",
     "species_id": 274
   },
   {
     "id": 275,
+    "slug": 275,
     "identifier": "shiftry",
     "species_id": 275
   },
   {
     "id": 276,
+    "slug": 276,
     "identifier": "taillow",
     "species_id": 276
   },
   {
     "id": 277,
+    "slug": 277,
     "identifier": "swellow",
     "species_id": 277
   },
   {
     "id": 278,
+    "slug": 278,
     "identifier": "wingull",
     "species_id": 278
   },
   {
     "id": 279,
+    "slug": 279,
     "identifier": "pelipper",
     "species_id": 279
   },
   {
     "id": 280,
+    "slug": 280,
     "identifier": "ralts",
     "species_id": 280
   },
   {
     "id": 281,
+    "slug": 281,
     "identifier": "kirlia",
     "species_id": 281
   },
   {
     "id": 282,
+    "slug": 282,
     "identifier": "gardevoir",
     "species_id": 282
   },
   {
     "id": 283,
+    "slug": 283,
     "identifier": "surskit",
     "species_id": 283
   },
   {
     "id": 284,
+    "slug": 284,
     "identifier": "masquerain",
     "species_id": 284
   },
   {
     "id": 285,
+    "slug": 285,
     "identifier": "shroomish",
     "species_id": 285
   },
   {
     "id": 286,
+    "slug": 286,
     "identifier": "breloom",
     "species_id": 286
   },
   {
     "id": 287,
+    "slug": 287,
     "identifier": "slakoth",
     "species_id": 287
   },
   {
     "id": 288,
+    "slug": 288,
     "identifier": "vigoroth",
     "species_id": 288
   },
   {
     "id": 289,
+    "slug": 289,
     "identifier": "slaking",
     "species_id": 289
   },
   {
     "id": 290,
+    "slug": 290,
     "identifier": "nincada",
     "species_id": 290
   },
   {
     "id": 291,
+    "slug": 291,
     "identifier": "ninjask",
     "species_id": 291
   },
   {
     "id": 292,
+    "slug": 292,
     "identifier": "shedinja",
     "species_id": 292
   },
   {
     "id": 293,
+    "slug": 293,
     "identifier": "whismur",
     "species_id": 293
   },
   {
     "id": 294,
+    "slug": 294,
     "identifier": "loudred",
     "species_id": 294
   },
   {
     "id": 295,
+    "slug": 295,
     "identifier": "exploud",
     "species_id": 295
   },
   {
     "id": 296,
+    "slug": 296,
     "identifier": "makuhita",
     "species_id": 296
   },
   {
     "id": 297,
+    "slug": 297,
     "identifier": "hariyama",
     "species_id": 297
   },
   {
     "id": 298,
+    "slug": 298,
     "identifier": "azurill",
     "species_id": 298
   },
   {
     "id": 299,
+    "slug": 299,
     "identifier": "nosepass",
     "species_id": 299
   },
   {
     "id": 300,
+    "slug": 300,
     "identifier": "skitty",
     "species_id": 300
   },
   {
     "id": 301,
+    "slug": 301,
     "identifier": "delcatty",
     "species_id": 301
   },
   {
     "id": 302,
+    "slug": 302,
     "identifier": "sableye",
     "species_id": 302
   },
   {
     "id": 303,
+    "slug": 303,
     "identifier": "mawile",
     "species_id": 303
   },
   {
     "id": 304,
+    "slug": 304,
     "identifier": "aron",
     "species_id": 304
   },
   {
     "id": 305,
+    "slug": 305,
     "identifier": "lairon",
     "species_id": 305
   },
   {
     "id": 306,
+    "slug": 306,
     "identifier": "aggron",
     "species_id": 306
   },
   {
     "id": 307,
+    "slug": 307,
     "identifier": "meditite",
     "species_id": 307
   },
   {
     "id": 308,
+    "slug": 308,
     "identifier": "medicham",
     "species_id": 308
   },
   {
     "id": 309,
+    "slug": 309,
     "identifier": "electrike",
     "species_id": 309
   },
   {
     "id": 310,
+    "slug": 310,
     "identifier": "manectric",
     "species_id": 310
   },
   {
     "id": 311,
+    "slug": 311,
     "identifier": "plusle",
     "species_id": 311
   },
   {
     "id": 312,
+    "slug": 312,
     "identifier": "minun",
     "species_id": 312
   },
   {
     "id": 313,
+    "slug": 313,
     "identifier": "volbeat",
     "species_id": 313
   },
   {
     "id": 314,
+    "slug": 314,
     "identifier": "illumise",
     "species_id": 314
   },
   {
     "id": 315,
+    "slug": 315,
     "identifier": "roselia",
     "species_id": 315
   },
   {
     "id": 316,
+    "slug": 316,
     "identifier": "gulpin",
     "species_id": 316
   },
   {
     "id": 317,
+    "slug": 317,
     "identifier": "swalot",
     "species_id": 317
   },
   {
     "id": 318,
+    "slug": 318,
     "identifier": "carvanha",
     "species_id": 318
   },
   {
     "id": 319,
+    "slug": 319,
     "identifier": "sharpedo",
     "species_id": 319
   },
   {
     "id": 320,
+    "slug": 320,
     "identifier": "wailmer",
     "species_id": 320
   },
   {
     "id": 321,
+    "slug": 321,
     "identifier": "wailord",
     "species_id": 321
   },
   {
     "id": 322,
+    "slug": 322,
     "identifier": "numel",
     "species_id": 322
   },
   {
     "id": 323,
+    "slug": 323,
     "identifier": "camerupt",
     "species_id": 323
   },
   {
     "id": 324,
+    "slug": 324,
     "identifier": "torkoal",
     "species_id": 324
   },
   {
     "id": 325,
+    "slug": 325,
     "identifier": "spoink",
     "species_id": 325
   },
   {
     "id": 326,
+    "slug": 326,
     "identifier": "grumpig",
     "species_id": 326
   },
   {
     "id": 327,
+    "slug": 327,
     "identifier": "spinda",
     "species_id": 327
   },
   {
     "id": 328,
+    "slug": 328,
     "identifier": "trapinch",
     "species_id": 328
   },
   {
     "id": 329,
+    "slug": 329,
     "identifier": "vibrava",
     "species_id": 329
   },
   {
     "id": 330,
+    "slug": 330,
     "identifier": "flygon",
     "species_id": 330
   },
   {
     "id": 331,
+    "slug": 331,
     "identifier": "cacnea",
     "species_id": 331
   },
   {
     "id": 332,
+    "slug": 332,
     "identifier": "cacturne",
     "species_id": 332
   },
   {
     "id": 333,
+    "slug": 333,
     "identifier": "swablu",
     "species_id": 333
   },
   {
     "id": 334,
+    "slug": 334,
     "identifier": "altaria",
     "species_id": 334
   },
   {
     "id": 335,
+    "slug": 335,
     "identifier": "zangoose",
     "species_id": 335
   },
   {
     "id": 336,
+    "slug": 336,
     "identifier": "seviper",
     "species_id": 336
   },
   {
     "id": 337,
+    "slug": 337,
     "identifier": "lunatone",
     "species_id": 337
   },
   {
     "id": 338,
+    "slug": 338,
     "identifier": "solrock",
     "species_id": 338
   },
   {
     "id": 339,
+    "slug": 339,
     "identifier": "barboach",
     "species_id": 339
   },
   {
     "id": 340,
+    "slug": 340,
     "identifier": "whiscash",
     "species_id": 340
   },
   {
     "id": 341,
+    "slug": 341,
     "identifier": "corphish",
     "species_id": 341
   },
   {
     "id": 342,
+    "slug": 342,
     "identifier": "crawdaunt",
     "species_id": 342
   },
   {
     "id": 343,
+    "slug": 343,
     "identifier": "baltoy",
     "species_id": 343
   },
   {
     "id": 344,
+    "slug": 344,
     "identifier": "claydol",
     "species_id": 344
   },
   {
     "id": 345,
+    "slug": 345,
     "identifier": "lileep",
     "species_id": 345
   },
   {
     "id": 346,
+    "slug": 346,
     "identifier": "cradily",
     "species_id": 346
   },
   {
     "id": 347,
+    "slug": 347,
     "identifier": "anorith",
     "species_id": 347
   },
   {
     "id": 348,
+    "slug": 348,
     "identifier": "armaldo",
     "species_id": 348
   },
   {
     "id": 349,
+    "slug": 349,
     "identifier": "feebas",
     "species_id": 349
   },
   {
     "id": 350,
+    "slug": 350,
     "identifier": "milotic",
     "species_id": 350
   },
   {
     "id": 351,
+    "slug": 351,
     "identifier": "castform",
     "species_id": 351
   },
   {
     "id": 352,
+    "slug": 352,
     "identifier": "kecleon",
     "species_id": 352
   },
   {
     "id": 353,
+    "slug": 353,
     "identifier": "shuppet",
     "species_id": 353
   },
   {
     "id": 354,
+    "slug": 354,
     "identifier": "banette",
     "species_id": 354
   },
   {
     "id": 355,
+    "slug": 355,
     "identifier": "duskull",
     "species_id": 355
   },
   {
     "id": 356,
+    "slug": 356,
     "identifier": "dusclops",
     "species_id": 356
   },
   {
     "id": 357,
+    "slug": 357,
     "identifier": "tropius",
     "species_id": 357
   },
   {
     "id": 358,
+    "slug": 358,
     "identifier": "chimecho",
     "species_id": 358
   },
   {
     "id": 359,
+    "slug": 359,
     "identifier": "absol",
     "species_id": 359
   },
   {
     "id": 360,
+    "slug": 360,
     "identifier": "wynaut",
     "species_id": 360
   },
   {
     "id": 361,
+    "slug": 361,
     "identifier": "snorunt",
     "species_id": 361
   },
   {
     "id": 362,
+    "slug": 362,
     "identifier": "glalie",
     "species_id": 362
   },
   {
     "id": 363,
+    "slug": 363,
     "identifier": "spheal",
     "species_id": 363
   },
   {
     "id": 364,
+    "slug": 364,
     "identifier": "sealeo",
     "species_id": 364
   },
   {
     "id": 365,
+    "slug": 365,
     "identifier": "walrein",
     "species_id": 365
   },
   {
     "id": 366,
+    "slug": 366,
     "identifier": "clamperl",
     "species_id": 366
   },
   {
     "id": 367,
+    "slug": 367,
     "identifier": "huntail",
     "species_id": 367
   },
   {
     "id": 368,
+    "slug": 368,
     "identifier": "gorebyss",
     "species_id": 368
   },
   {
     "id": 369,
+    "slug": 369,
     "identifier": "relicanth",
     "species_id": 369
   },
   {
     "id": 370,
+    "slug": 370,
     "identifier": "luvdisc",
     "species_id": 370
   },
   {
     "id": 371,
+    "slug": 371,
     "identifier": "bagon",
     "species_id": 371
   },
   {
     "id": 372,
+    "slug": 372,
     "identifier": "shelgon",
     "species_id": 372
   },
   {
     "id": 373,
+    "slug": 373,
     "identifier": "salamence",
     "species_id": 373
   },
   {
     "id": 374,
+    "slug": 374,
     "identifier": "beldum",
     "species_id": 374
   },
   {
     "id": 375,
+    "slug": 375,
     "identifier": "metang",
     "species_id": 375
   },
   {
     "id": 376,
+    "slug": 376,
     "identifier": "metagross",
     "species_id": 376
   },
   {
     "id": 377,
+    "slug": 377,
     "identifier": "regirock",
     "species_id": 377
   },
   {
     "id": 378,
+    "slug": 378,
     "identifier": "regice",
     "species_id": 378
   },
   {
     "id": 379,
+    "slug": 379,
     "identifier": "registeel",
     "species_id": 379
   },
   {
     "id": 380,
+    "slug": 380,
     "identifier": "latias",
     "species_id": 380
   },
   {
     "id": 381,
+    "slug": 381,
     "identifier": "latios",
     "species_id": 381
   },
   {
     "id": 382,
+    "slug": 382,
     "identifier": "kyogre",
     "species_id": 382
   },
   {
     "id": 383,
+    "slug": 383,
     "identifier": "groudon",
     "species_id": 383
   },
   {
     "id": 384,
+    "slug": 384,
     "identifier": "rayquaza",
     "species_id": 384
   },
   {
     "id": 385,
+    "slug": 385,
     "identifier": "jirachi",
     "species_id": 385
   },
   {
     "id": 386,
+    "slug": 386,
     "identifier": "deoxys-normal",
     "species_id": 386
   },
   {
     "id": 387,
+    "slug": 387,
     "identifier": "turtwig",
     "species_id": 387
   },
   {
     "id": 388,
+    "slug": 388,
     "identifier": "grotle",
     "species_id": 388
   },
   {
     "id": 389,
+    "slug": 389,
     "identifier": "torterra",
     "species_id": 389
   },
   {
     "id": 390,
+    "slug": 390,
     "identifier": "chimchar",
     "species_id": 390
   },
   {
     "id": 391,
+    "slug": 391,
     "identifier": "monferno",
     "species_id": 391
   },
   {
     "id": 392,
+    "slug": 392,
     "identifier": "infernape",
     "species_id": 392
   },
   {
     "id": 393,
+    "slug": 393,
     "identifier": "piplup",
     "species_id": 393
   },
   {
     "id": 394,
+    "slug": 394,
     "identifier": "prinplup",
     "species_id": 394
   },
   {
     "id": 395,
+    "slug": 395,
     "identifier": "empoleon",
     "species_id": 395
   },
   {
     "id": 396,
+    "slug": 396,
     "identifier": "starly",
     "species_id": 396
   },
   {
     "id": 397,
+    "slug": 397,
     "identifier": "staravia",
     "species_id": 397
   },
   {
     "id": 398,
+    "slug": 398,
     "identifier": "staraptor",
     "species_id": 398
   },
   {
     "id": 399,
+    "slug": 399,
     "identifier": "bidoof",
     "species_id": 399
   },
   {
     "id": 400,
+    "slug": 400,
     "identifier": "bibarel",
     "species_id": 400
   },
   {
     "id": 401,
+    "slug": 401,
     "identifier": "kricketot",
     "species_id": 401
   },
   {
     "id": 402,
+    "slug": 402,
     "identifier": "kricketune",
     "species_id": 402
   },
   {
     "id": 403,
+    "slug": 403,
     "identifier": "shinx",
     "species_id": 403
   },
   {
     "id": 404,
+    "slug": 404,
     "identifier": "luxio",
     "species_id": 404
   },
   {
     "id": 405,
+    "slug": 405,
     "identifier": "luxray",
     "species_id": 405
   },
   {
     "id": 406,
+    "slug": 406,
     "identifier": "budew",
     "species_id": 406
   },
   {
     "id": 407,
+    "slug": 407,
     "identifier": "roserade",
     "species_id": 407
   },
   {
     "id": 408,
+    "slug": 408,
     "identifier": "cranidos",
     "species_id": 408
   },
   {
     "id": 409,
+    "slug": 409,
     "identifier": "rampardos",
     "species_id": 409
   },
   {
     "id": 410,
+    "slug": 410,
     "identifier": "shieldon",
     "species_id": 410
   },
   {
     "id": 411,
+    "slug": 411,
     "identifier": "bastiodon",
     "species_id": 411
   },
   {
     "id": 412,
+    "slug": 412,
     "identifier": "burmy",
     "species_id": 412
   },
   {
     "id": 413,
+    "slug": 413,
     "identifier": "wormadam-plant",
     "species_id": 413
   },
   {
     "id": 414,
+    "slug": 414,
     "identifier": "mothim",
     "species_id": 414
   },
   {
     "id": 415,
+    "slug": 415,
     "identifier": "combee",
     "species_id": 415
   },
   {
     "id": 416,
+    "slug": 416,
     "identifier": "vespiquen",
     "species_id": 416
   },
   {
     "id": 417,
+    "slug": 417,
     "identifier": "pachirisu",
     "species_id": 417
   },
   {
     "id": 418,
+    "slug": 418,
     "identifier": "buizel",
     "species_id": 418
   },
   {
     "id": 419,
+    "slug": 419,
     "identifier": "floatzel",
     "species_id": 419
   },
   {
     "id": 420,
+    "slug": 420,
     "identifier": "cherubi",
     "species_id": 420
   },
   {
     "id": 421,
+    "slug": 421,
     "identifier": "cherrim",
     "species_id": 421
   },
   {
     "id": 422,
+    "slug": 422,
     "identifier": "shellos",
     "species_id": 422
   },
   {
     "id": 423,
+    "slug": 423,
     "identifier": "gastrodon",
     "species_id": 423
   },
   {
     "id": 424,
+    "slug": 424,
     "identifier": "ambipom",
     "species_id": 424
   },
   {
     "id": 425,
+    "slug": 425,
     "identifier": "drifloon",
     "species_id": 425
   },
   {
     "id": 426,
+    "slug": 426,
     "identifier": "drifblim",
     "species_id": 426
   },
   {
     "id": 427,
+    "slug": 427,
     "identifier": "buneary",
     "species_id": 427
   },
   {
     "id": 428,
+    "slug": 428,
     "identifier": "lopunny",
     "species_id": 428
   },
   {
     "id": 429,
+    "slug": 429,
     "identifier": "mismagius",
     "species_id": 429
   },
   {
     "id": 430,
+    "slug": 430,
     "identifier": "honchkrow",
     "species_id": 430
   },
   {
     "id": 431,
+    "slug": 431,
     "identifier": "glameow",
     "species_id": 431
   },
   {
     "id": 432,
+    "slug": 432,
     "identifier": "purugly",
     "species_id": 432
   },
   {
     "id": 433,
+    "slug": 433,
     "identifier": "chingling",
     "species_id": 433
   },
   {
     "id": 434,
+    "slug": 434,
     "identifier": "stunky",
     "species_id": 434
   },
   {
     "id": 435,
+    "slug": 435,
     "identifier": "skuntank",
     "species_id": 435
   },
   {
     "id": 436,
+    "slug": 436,
     "identifier": "bronzor",
     "species_id": 436
   },
   {
     "id": 437,
+    "slug": 437,
     "identifier": "bronzong",
     "species_id": 437
   },
   {
     "id": 438,
+    "slug": 438,
     "identifier": "bonsly",
     "species_id": 438
   },
   {
     "id": 439,
+    "slug": 439,
     "identifier": "mime-jr",
     "species_id": 439
   },
   {
     "id": 440,
+    "slug": 440,
     "identifier": "happiny",
     "species_id": 440
   },
   {
     "id": 441,
+    "slug": 441,
     "identifier": "chatot",
     "species_id": 441
   },
   {
     "id": 442,
+    "slug": 442,
     "identifier": "spiritomb",
     "species_id": 442
   },
   {
     "id": 443,
+    "slug": 443,
     "identifier": "gible",
     "species_id": 443
   },
   {
     "id": 444,
+    "slug": 444,
     "identifier": "gabite",
     "species_id": 444
   },
   {
     "id": 445,
+    "slug": 445,
     "identifier": "garchomp",
     "species_id": 445
   },
   {
     "id": 446,
+    "slug": 446,
     "identifier": "munchlax",
     "species_id": 446
   },
   {
     "id": 447,
+    "slug": 447,
     "identifier": "riolu",
     "species_id": 447
   },
   {
     "id": 448,
+    "slug": 448,
     "identifier": "lucario",
     "species_id": 448
   },
   {
     "id": 449,
+    "slug": 449,
     "identifier": "hippopotas",
     "species_id": 449
   },
   {
     "id": 450,
+    "slug": 450,
     "identifier": "hippowdon",
     "species_id": 450
   },
   {
     "id": 451,
+    "slug": 451,
     "identifier": "skorupi",
     "species_id": 451
   },
   {
     "id": 452,
+    "slug": 452,
     "identifier": "drapion",
     "species_id": 452
   },
   {
     "id": 453,
+    "slug": 453,
     "identifier": "croagunk",
     "species_id": 453
   },
   {
     "id": 454,
+    "slug": 454,
     "identifier": "toxicroak",
     "species_id": 454
   },
   {
     "id": 455,
+    "slug": 455,
     "identifier": "carnivine",
     "species_id": 455
   },
   {
     "id": 456,
+    "slug": 456,
     "identifier": "finneon",
     "species_id": 456
   },
   {
     "id": 457,
+    "slug": 457,
     "identifier": "lumineon",
     "species_id": 457
   },
   {
     "id": 458,
+    "slug": 458,
     "identifier": "mantyke",
     "species_id": 458
   },
   {
     "id": 459,
+    "slug": 459,
     "identifier": "snover",
     "species_id": 459
   },
   {
     "id": 460,
+    "slug": 460,
     "identifier": "abomasnow",
     "species_id": 460
   },
   {
     "id": 461,
+    "slug": 461,
     "identifier": "weavile",
     "species_id": 461
   },
   {
     "id": 462,
+    "slug": 462,
     "identifier": "magnezone",
     "species_id": 462
   },
   {
     "id": 463,
+    "slug": 463,
     "identifier": "lickilicky",
     "species_id": 463
   },
   {
     "id": 464,
+    "slug": 464,
     "identifier": "rhyperior",
     "species_id": 464
   },
   {
     "id": 465,
+    "slug": 465,
     "identifier": "tangrowth",
     "species_id": 465
   },
   {
     "id": 466,
+    "slug": 466,
     "identifier": "electivire",
     "species_id": 466
   },
   {
     "id": 467,
+    "slug": 467,
     "identifier": "magmortar",
     "species_id": 467
   },
   {
     "id": 468,
+    "slug": 468,
     "identifier": "togekiss",
     "species_id": 468
   },
   {
     "id": 469,
+    "slug": 469,
     "identifier": "yanmega",
     "species_id": 469
   },
   {
     "id": 470,
+    "slug": 470,
     "identifier": "leafeon",
     "species_id": 470
   },
   {
     "id": 471,
+    "slug": 471,
     "identifier": "glaceon",
     "species_id": 471
   },
   {
     "id": 472,
+    "slug": 472,
     "identifier": "gliscor",
     "species_id": 472
   },
   {
     "id": 473,
+    "slug": 473,
     "identifier": "mamoswine",
     "species_id": 473
   },
   {
     "id": 474,
+    "slug": 474,
     "identifier": "porygon-z",
     "species_id": 474
   },
   {
     "id": 475,
+    "slug": 475,
     "identifier": "gallade",
     "species_id": 475
   },
   {
     "id": 476,
+    "slug": 476,
     "identifier": "probopass",
     "species_id": 476
   },
   {
     "id": 477,
+    "slug": 477,
     "identifier": "dusknoir",
     "species_id": 477
   },
   {
     "id": 478,
+    "slug": 478,
     "identifier": "froslass",
     "species_id": 478
   },
   {
     "id": 479,
+    "slug": 479,
     "identifier": "rotom",
     "species_id": 479
   },
   {
     "id": 480,
+    "slug": 480,
     "identifier": "uxie",
     "species_id": 480
   },
   {
     "id": 481,
+    "slug": 481,
     "identifier": "mesprit",
     "species_id": 481
   },
   {
     "id": 482,
+    "slug": 482,
     "identifier": "azelf",
     "species_id": 482
   },
   {
     "id": 483,
+    "slug": 483,
     "identifier": "dialga",
     "species_id": 483
   },
   {
     "id": 484,
+    "slug": 484,
     "identifier": "palkia",
     "species_id": 484
   },
   {
     "id": 485,
+    "slug": 485,
     "identifier": "heatran",
     "species_id": 485
   },
   {
     "id": 486,
+    "slug": 486,
     "identifier": "regigigas",
     "species_id": 486
   },
   {
     "id": 487,
+    "slug": 487,
     "identifier": "giratina-altered",
     "species_id": 487
   },
   {
     "id": 488,
+    "slug": 488,
     "identifier": "cresselia",
     "species_id": 488
   },
   {
     "id": 489,
+    "slug": 489,
     "identifier": "phione",
     "species_id": 489
   },
   {
     "id": 490,
+    "slug": 490,
     "identifier": "manaphy",
     "species_id": 490
   },
   {
     "id": 491,
+    "slug": 491,
     "identifier": "darkrai",
     "species_id": 491
   },
   {
     "id": 492,
+    "slug": 492,
     "identifier": "shaymin-land",
     "species_id": 492
   },
   {
     "id": 493,
+    "slug": 493,
     "identifier": "arceus",
     "species_id": 493
   },
   {
     "id": 494,
+    "slug": 494,
     "identifier": "victini",
     "species_id": 494
   },
   {
     "id": 495,
+    "slug": 495,
     "identifier": "snivy",
     "species_id": 495
   },
   {
     "id": 496,
+    "slug": 496,
     "identifier": "servine",
     "species_id": 496
   },
   {
     "id": 497,
+    "slug": 497,
     "identifier": "serperior",
     "species_id": 497
   },
   {
     "id": 498,
+    "slug": 498,
     "identifier": "tepig",
     "species_id": 498
   },
   {
     "id": 499,
+    "slug": 499,
     "identifier": "pignite",
     "species_id": 499
   },
   {
     "id": 500,
+    "slug": 500,
     "identifier": "emboar",
     "species_id": 500
   },
   {
     "id": 501,
+    "slug": 501,
     "identifier": "oshawott",
     "species_id": 501
   },
   {
     "id": 502,
+    "slug": 502,
     "identifier": "dewott",
     "species_id": 502
   },
   {
     "id": 503,
+    "slug": 503,
     "identifier": "samurott",
     "species_id": 503
   },
   {
     "id": 504,
+    "slug": 504,
     "identifier": "patrat",
     "species_id": 504
   },
   {
     "id": 505,
+    "slug": 505,
     "identifier": "watchog",
     "species_id": 505
   },
   {
     "id": 506,
+    "slug": 506,
     "identifier": "lillipup",
     "species_id": 506
   },
   {
     "id": 507,
+    "slug": 507,
     "identifier": "herdier",
     "species_id": 507
   },
   {
     "id": 508,
+    "slug": 508,
     "identifier": "stoutland",
     "species_id": 508
   },
   {
     "id": 509,
+    "slug": 509,
     "identifier": "purrloin",
     "species_id": 509
   },
   {
     "id": 510,
+    "slug": 510,
     "identifier": "liepard",
     "species_id": 510
   },
   {
     "id": 511,
+    "slug": 511,
     "identifier": "pansage",
     "species_id": 511
   },
   {
     "id": 512,
+    "slug": 512,
     "identifier": "simisage",
     "species_id": 512
   },
   {
     "id": 513,
+    "slug": 513,
     "identifier": "pansear",
     "species_id": 513
   },
   {
     "id": 514,
+    "slug": 514,
     "identifier": "simisear",
     "species_id": 514
   },
   {
     "id": 515,
+    "slug": 515,
     "identifier": "panpour",
     "species_id": 515
   },
   {
     "id": 516,
+    "slug": 516,
     "identifier": "simipour",
     "species_id": 516
   },
   {
     "id": 517,
+    "slug": 517,
     "identifier": "munna",
     "species_id": 517
   },
   {
     "id": 518,
+    "slug": 518,
     "identifier": "musharna",
     "species_id": 518
   },
   {
     "id": 519,
+    "slug": 519,
     "identifier": "pidove",
     "species_id": 519
   },
   {
     "id": 520,
+    "slug": 520,
     "identifier": "tranquill",
     "species_id": 520
   },
   {
     "id": 521,
+    "slug": 521,
     "identifier": "unfezant",
     "species_id": 521
   },
   {
     "id": 522,
+    "slug": 522,
     "identifier": "blitzle",
     "species_id": 522
   },
   {
     "id": 523,
+    "slug": 523,
     "identifier": "zebstrika",
     "species_id": 523
   },
   {
     "id": 524,
+    "slug": 524,
     "identifier": "roggenrola",
     "species_id": 524
   },
   {
     "id": 525,
+    "slug": 525,
     "identifier": "boldore",
     "species_id": 525
   },
   {
     "id": 526,
+    "slug": 526,
     "identifier": "gigalith",
     "species_id": 526
   },
   {
     "id": 527,
+    "slug": 527,
     "identifier": "woobat",
     "species_id": 527
   },
   {
     "id": 528,
+    "slug": 528,
     "identifier": "swoobat",
     "species_id": 528
   },
   {
     "id": 529,
+    "slug": 529,
     "identifier": "drilbur",
     "species_id": 529
   },
   {
     "id": 530,
+    "slug": 530,
     "identifier": "excadrill",
     "species_id": 530
   },
   {
     "id": 531,
+    "slug": 531,
     "identifier": "audino",
     "species_id": 531
   },
   {
     "id": 532,
+    "slug": 532,
     "identifier": "timburr",
     "species_id": 532
   },
   {
     "id": 533,
+    "slug": 533,
     "identifier": "gurdurr",
     "species_id": 533
   },
   {
     "id": 534,
+    "slug": 534,
     "identifier": "conkeldurr",
     "species_id": 534
   },
   {
     "id": 535,
+    "slug": 535,
     "identifier": "tympole",
     "species_id": 535
   },
   {
     "id": 536,
+    "slug": 536,
     "identifier": "palpitoad",
     "species_id": 536
   },
   {
     "id": 537,
+    "slug": 537,
     "identifier": "seismitoad",
     "species_id": 537
   },
   {
     "id": 538,
+    "slug": 538,
     "identifier": "throh",
     "species_id": 538
   },
   {
     "id": 539,
+    "slug": 539,
     "identifier": "sawk",
     "species_id": 539
   },
   {
     "id": 540,
+    "slug": 540,
     "identifier": "sewaddle",
     "species_id": 540
   },
   {
     "id": 541,
+    "slug": 541,
     "identifier": "swadloon",
     "species_id": 541
   },
   {
     "id": 542,
+    "slug": 542,
     "identifier": "leavanny",
     "species_id": 542
   },
   {
     "id": 543,
+    "slug": 543,
     "identifier": "venipede",
     "species_id": 543
   },
   {
     "id": 544,
+    "slug": 544,
     "identifier": "whirlipede",
     "species_id": 544
   },
   {
     "id": 545,
+    "slug": 545,
     "identifier": "scolipede",
     "species_id": 545
   },
   {
     "id": 546,
+    "slug": 546,
     "identifier": "cottonee",
     "species_id": 546
   },
   {
     "id": 547,
+    "slug": 547,
     "identifier": "whimsicott",
     "species_id": 547
   },
   {
     "id": 548,
+    "slug": 548,
     "identifier": "petilil",
     "species_id": 548
   },
   {
     "id": 549,
+    "slug": 549,
     "identifier": "lilligant",
     "species_id": 549
   },
   {
     "id": 550,
+    "slug": 550,
     "identifier": "basculin-red-striped",
     "species_id": 550
   },
   {
     "id": 551,
+    "slug": 551,
     "identifier": "sandile",
     "species_id": 551
   },
   {
     "id": 552,
+    "slug": 552,
     "identifier": "krokorok",
     "species_id": 552
   },
   {
     "id": 553,
+    "slug": 553,
     "identifier": "krookodile",
     "species_id": 553
   },
   {
     "id": 554,
+    "slug": 554,
     "identifier": "darumaka",
     "species_id": 554
   },
   {
     "id": 555,
+    "slug": 555,
     "identifier": "darmanitan-standard",
     "species_id": 555
   },
   {
     "id": 556,
+    "slug": 556,
     "identifier": "maractus",
     "species_id": 556
   },
   {
     "id": 557,
+    "slug": 557,
     "identifier": "dwebble",
     "species_id": 557
   },
   {
     "id": 558,
+    "slug": 558,
     "identifier": "crustle",
     "species_id": 558
   },
   {
     "id": 559,
+    "slug": 559,
     "identifier": "scraggy",
     "species_id": 559
   },
   {
     "id": 560,
+    "slug": 560,
     "identifier": "scrafty",
     "species_id": 560
   },
   {
     "id": 561,
+    "slug": 561,
     "identifier": "sigilyph",
     "species_id": 561
   },
   {
     "id": 562,
+    "slug": 562,
     "identifier": "yamask",
     "species_id": 562
   },
   {
     "id": 563,
+    "slug": 563,
     "identifier": "cofagrigus",
     "species_id": 563
   },
   {
     "id": 564,
+    "slug": 564,
     "identifier": "tirtouga",
     "species_id": 564
   },
   {
     "id": 565,
+    "slug": 565,
     "identifier": "carracosta",
     "species_id": 565
   },
   {
     "id": 566,
+    "slug": 566,
     "identifier": "archen",
     "species_id": 566
   },
   {
     "id": 567,
+    "slug": 567,
     "identifier": "archeops",
     "species_id": 567
   },
   {
     "id": 568,
+    "slug": 568,
     "identifier": "trubbish",
     "species_id": 568
   },
   {
     "id": 569,
+    "slug": 569,
     "identifier": "garbodor",
     "species_id": 569
   },
   {
     "id": 570,
+    "slug": 570,
     "identifier": "zorua",
     "species_id": 570
   },
   {
     "id": 571,
+    "slug": 571,
     "identifier": "zoroark",
     "species_id": 571
   },
   {
     "id": 572,
+    "slug": 572,
     "identifier": "minccino",
     "species_id": 572
   },
   {
     "id": 573,
+    "slug": 573,
     "identifier": "cinccino",
     "species_id": 573
   },
   {
     "id": 574,
+    "slug": 574,
     "identifier": "gothita",
     "species_id": 574
   },
   {
     "id": 575,
+    "slug": 575,
     "identifier": "gothorita",
     "species_id": 575
   },
   {
     "id": 576,
+    "slug": 576,
     "identifier": "gothitelle",
     "species_id": 576
   },
   {
     "id": 577,
+    "slug": 577,
     "identifier": "solosis",
     "species_id": 577
   },
   {
     "id": 578,
+    "slug": 578,
     "identifier": "duosion",
     "species_id": 578
   },
   {
     "id": 579,
+    "slug": 579,
     "identifier": "reuniclus",
     "species_id": 579
   },
   {
     "id": 580,
+    "slug": 580,
     "identifier": "ducklett",
     "species_id": 580
   },
   {
     "id": 581,
+    "slug": 581,
     "identifier": "swanna",
     "species_id": 581
   },
   {
     "id": 582,
+    "slug": 582,
     "identifier": "vanillite",
     "species_id": 582
   },
   {
     "id": 583,
+    "slug": 583,
     "identifier": "vanillish",
     "species_id": 583
   },
   {
     "id": 584,
+    "slug": 584,
     "identifier": "vanilluxe",
     "species_id": 584
   },
   {
     "id": 585,
+    "slug": 585,
     "identifier": "deerling",
     "species_id": 585
   },
   {
     "id": 586,
+    "slug": 586,
     "identifier": "sawsbuck",
     "species_id": 586
   },
   {
     "id": 587,
+    "slug": 587,
     "identifier": "emolga",
     "species_id": 587
   },
   {
     "id": 588,
+    "slug": 588,
     "identifier": "karrablast",
     "species_id": 588
   },
   {
     "id": 589,
+    "slug": 589,
     "identifier": "escavalier",
     "species_id": 589
   },
   {
     "id": 590,
+    "slug": 590,
     "identifier": "foongus",
     "species_id": 590
   },
   {
     "id": 591,
+    "slug": 591,
     "identifier": "amoonguss",
     "species_id": 591
   },
   {
     "id": 592,
+    "slug": 592,
     "identifier": "frillish",
     "species_id": 592
   },
   {
     "id": 593,
+    "slug": 593,
     "identifier": "jellicent",
     "species_id": 593
   },
   {
     "id": 594,
+    "slug": 594,
     "identifier": "alomomola",
     "species_id": 594
   },
   {
     "id": 595,
+    "slug": 595,
     "identifier": "joltik",
     "species_id": 595
   },
   {
     "id": 596,
+    "slug": 596,
     "identifier": "galvantula",
     "species_id": 596
   },
   {
     "id": 597,
+    "slug": 597,
     "identifier": "ferroseed",
     "species_id": 597
   },
   {
     "id": 598,
+    "slug": 598,
     "identifier": "ferrothorn",
     "species_id": 598
   },
   {
     "id": 599,
+    "slug": 599,
     "identifier": "klink",
     "species_id": 599
   },
   {
     "id": 600,
+    "slug": 600,
     "identifier": "klang",
     "species_id": 600
   },
   {
     "id": 601,
+    "slug": 601,
     "identifier": "klinklang",
     "species_id": 601
   },
   {
     "id": 602,
+    "slug": 602,
     "identifier": "tynamo",
     "species_id": 602
   },
   {
     "id": 603,
+    "slug": 603,
     "identifier": "eelektrik",
     "species_id": 603
   },
   {
     "id": 604,
+    "slug": 604,
     "identifier": "eelektross",
     "species_id": 604
   },
   {
     "id": 605,
+    "slug": 605,
     "identifier": "elgyem",
     "species_id": 605
   },
   {
     "id": 606,
+    "slug": 606,
     "identifier": "beheeyem",
     "species_id": 606
   },
   {
     "id": 607,
+    "slug": 607,
     "identifier": "litwick",
     "species_id": 607
   },
   {
     "id": 608,
+    "slug": 608,
     "identifier": "lampent",
     "species_id": 608
   },
   {
     "id": 609,
+    "slug": 609,
     "identifier": "chandelure",
     "species_id": 609
   },
   {
     "id": 610,
+    "slug": 610,
     "identifier": "axew",
     "species_id": 610
   },
   {
     "id": 611,
+    "slug": 611,
     "identifier": "fraxure",
     "species_id": 611
   },
   {
     "id": 612,
+    "slug": 612,
     "identifier": "haxorus",
     "species_id": 612
   },
   {
     "id": 613,
+    "slug": 613,
     "identifier": "cubchoo",
     "species_id": 613
   },
   {
     "id": 614,
+    "slug": 614,
     "identifier": "beartic",
     "species_id": 614
   },
   {
     "id": 615,
+    "slug": 615,
     "identifier": "cryogonal",
     "species_id": 615
   },
   {
     "id": 616,
+    "slug": 616,
     "identifier": "shelmet",
     "species_id": 616
   },
   {
     "id": 617,
+    "slug": 617,
     "identifier": "accelgor",
     "species_id": 617
   },
   {
     "id": 618,
+    "slug": 618,
     "identifier": "stunfisk",
     "species_id": 618
   },
   {
     "id": 619,
+    "slug": 619,
     "identifier": "mienfoo",
     "species_id": 619
   },
   {
     "id": 620,
+    "slug": 620,
     "identifier": "mienshao",
     "species_id": 620
   },
   {
     "id": 621,
+    "slug": 621,
     "identifier": "druddigon",
     "species_id": 621
   },
   {
     "id": 622,
+    "slug": 622,
     "identifier": "golett",
     "species_id": 622
   },
   {
     "id": 623,
+    "slug": 623,
     "identifier": "golurk",
     "species_id": 623
   },
   {
     "id": 624,
+    "slug": 624,
     "identifier": "pawniard",
     "species_id": 624
   },
   {
     "id": 625,
+    "slug": 625,
     "identifier": "bisharp",
     "species_id": 625
   },
   {
     "id": 626,
+    "slug": 626,
     "identifier": "bouffalant",
     "species_id": 626
   },
   {
     "id": 627,
+    "slug": 627,
     "identifier": "rufflet",
     "species_id": 627
   },
   {
     "id": 628,
+    "slug": 628,
     "identifier": "braviary",
     "species_id": 628
   },
   {
     "id": 629,
+    "slug": 629,
     "identifier": "vullaby",
     "species_id": 629
   },
   {
     "id": 630,
+    "slug": 630,
     "identifier": "mandibuzz",
     "species_id": 630
   },
   {
     "id": 631,
+    "slug": 631,
     "identifier": "heatmor",
     "species_id": 631
   },
   {
     "id": 632,
+    "slug": 632,
     "identifier": "durant",
     "species_id": 632
   },
   {
     "id": 633,
+    "slug": 633,
     "identifier": "deino",
     "species_id": 633
   },
   {
     "id": 634,
+    "slug": 634,
     "identifier": "zweilous",
     "species_id": 634
   },
   {
     "id": 635,
+    "slug": 635,
     "identifier": "hydreigon",
     "species_id": 635
   },
   {
     "id": 636,
+    "slug": 636,
     "identifier": "larvesta",
     "species_id": 636
   },
   {
     "id": 637,
+    "slug": 637,
     "identifier": "volcarona",
     "species_id": 637
   },
   {
     "id": 638,
+    "slug": 638,
     "identifier": "cobalion",
     "species_id": 638
   },
   {
     "id": 639,
+    "slug": 639,
     "identifier": "terrakion",
     "species_id": 639
   },
   {
     "id": 640,
+    "slug": 640,
     "identifier": "virizion",
     "species_id": 640
   },
   {
     "id": 641,
+    "slug": 641,
     "identifier": "tornadus-incarnate",
     "species_id": 641
   },
   {
     "id": 642,
+    "slug": 642,
     "identifier": "thundurus-incarnate",
     "species_id": 642
   },
   {
     "id": 643,
+    "slug": 643,
     "identifier": "reshiram",
     "species_id": 643
   },
   {
     "id": 644,
+    "slug": 644,
     "identifier": "zekrom",
     "species_id": 644
   },
   {
     "id": 645,
+    "slug": 645,
     "identifier": "landorus-incarnate",
     "species_id": 645
   },
   {
     "id": 646,
+    "slug": 646,
     "identifier": "kyurem",
     "species_id": 646
   },
   {
     "id": 647,
+    "slug": 647,
     "identifier": "keldeo-ordinary",
     "species_id": 647
   },
   {
     "id": 648,
+    "slug": 648,
     "identifier": "meloetta-aria",
     "species_id": 648
   },
   {
     "id": 649,
+    "slug": 649,
     "identifier": "genesect",
     "species_id": 649
   },
   {
     "id": 650,
+    "slug": 650,
     "identifier": "chespin",
     "species_id": 650
   },
   {
     "id": 651,
+    "slug": 651,
     "identifier": "quilladin",
     "species_id": 651
   },
   {
     "id": 652,
+    "slug": 652,
     "identifier": "chesnaught",
     "species_id": 652
   },
   {
     "id": 653,
+    "slug": 653,
     "identifier": "fennekin",
     "species_id": 653
   },
   {
     "id": 654,
+    "slug": 654,
     "identifier": "braixen",
     "species_id": 654
   },
   {
     "id": 655,
+    "slug": 655,
     "identifier": "delphox",
     "species_id": 655
   },
   {
     "id": 656,
+    "slug": 656,
     "identifier": "froakie",
     "species_id": 656
   },
   {
     "id": 657,
+    "slug": 657,
     "identifier": "frogadier",
     "species_id": 657
   },
   {
     "id": 658,
+    "slug": 658,
     "identifier": "greninja",
     "species_id": 658
   },
   {
     "id": 659,
+    "slug": 659,
     "identifier": "bunnelby",
     "species_id": 659
   },
   {
     "id": 660,
+    "slug": 660,
     "identifier": "diggersby",
     "species_id": 660
   },
   {
     "id": 661,
+    "slug": 661,
     "identifier": "fletchling",
     "species_id": 661
   },
   {
     "id": 662,
+    "slug": 662,
     "identifier": "fletchinder",
     "species_id": 662
   },
   {
     "id": 663,
+    "slug": 663,
     "identifier": "talonflame",
     "species_id": 663
   },
   {
     "id": 664,
+    "slug": 664,
     "identifier": "scatterbug",
     "species_id": 664
   },
   {
     "id": 665,
+    "slug": 665,
     "identifier": "spewpa",
     "species_id": 665
   },
   {
     "id": 666,
+    "slug": 666,
     "identifier": "vivillon",
     "species_id": 666
   },
   {
     "id": 667,
+    "slug": 667,
     "identifier": "litleo",
     "species_id": 667
   },
   {
     "id": 668,
+    "slug": 668,
     "identifier": "pyroar",
     "species_id": 668
   },
   {
     "id": 669,
+    "slug": 669,
     "identifier": "flabebe",
     "species_id": 669
   },
   {
     "id": 670,
+    "slug": 670,
     "identifier": "floette",
     "species_id": 670
   },
   {
     "id": 671,
+    "slug": 671,
     "identifier": "florges",
     "species_id": 671
   },
   {
     "id": 672,
+    "slug": 672,
     "identifier": "skiddo",
     "species_id": 672
   },
   {
     "id": 673,
+    "slug": 673,
     "identifier": "gogoat",
     "species_id": 673
   },
   {
     "id": 674,
+    "slug": 674,
     "identifier": "pancham",
     "species_id": 674
   },
   {
     "id": 675,
+    "slug": 675,
     "identifier": "pangoro",
     "species_id": 675
   },
   {
     "id": 676,
+    "slug": 676,
     "identifier": "furfrou",
     "species_id": 676
   },
   {
     "id": 677,
+    "slug": 677,
     "identifier": "espurr",
     "species_id": 677
   },
   {
     "id": 678,
+    "slug": 678,
     "identifier": "meowstic-male",
     "species_id": 678
   },
   {
     "id": 679,
+    "slug": 679,
     "identifier": "honedge",
     "species_id": 679
   },
   {
     "id": 680,
+    "slug": 680,
     "identifier": "doublade",
     "species_id": 680
   },
   {
     "id": 681,
+    "slug": 681,
     "identifier": "aegislash-shield",
     "species_id": 681
   },
   {
     "id": 682,
+    "slug": 682,
     "identifier": "spritzee",
     "species_id": 682
   },
   {
     "id": 683,
+    "slug": 683,
     "identifier": "aromatisse",
     "species_id": 683
   },
   {
     "id": 684,
+    "slug": 684,
     "identifier": "swirlix",
     "species_id": 684
   },
   {
     "id": 685,
+    "slug": 685,
     "identifier": "slurpuff",
     "species_id": 685
   },
   {
     "id": 686,
+    "slug": 686,
     "identifier": "inkay",
     "species_id": 686
   },
   {
     "id": 687,
+    "slug": 687,
     "identifier": "malamar",
     "species_id": 687
   },
   {
     "id": 688,
+    "slug": 688,
     "identifier": "binacle",
     "species_id": 688
   },
   {
     "id": 689,
+    "slug": 689,
     "identifier": "barbaracle",
     "species_id": 689
   },
   {
     "id": 690,
+    "slug": 690,
     "identifier": "skrelp",
     "species_id": 690
   },
   {
     "id": 691,
+    "slug": 691,
     "identifier": "dragalge",
     "species_id": 691
   },
   {
     "id": 692,
+    "slug": 692,
     "identifier": "clauncher",
     "species_id": 692
   },
   {
     "id": 693,
+    "slug": 693,
     "identifier": "clawitzer",
     "species_id": 693
   },
   {
     "id": 694,
+    "slug": 694,
     "identifier": "helioptile",
     "species_id": 694
   },
   {
     "id": 695,
+    "slug": 695,
     "identifier": "heliolisk",
     "species_id": 695
   },
   {
     "id": 696,
+    "slug": 696,
     "identifier": "tyrunt",
     "species_id": 696
   },
   {
     "id": 697,
+    "slug": 697,
     "identifier": "tyrantrum",
     "species_id": 697
   },
   {
     "id": 698,
+    "slug": 698,
     "identifier": "amaura",
     "species_id": 698
   },
   {
     "id": 699,
+    "slug": 699,
     "identifier": "aurorus",
     "species_id": 699
   },
   {
     "id": 700,
+    "slug": 700,
     "identifier": "sylveon",
     "species_id": 700
   },
   {
     "id": 701,
+    "slug": 701,
     "identifier": "hawlucha",
     "species_id": 701
   },
   {
     "id": 702,
+    "slug": 702,
     "identifier": "dedenne",
     "species_id": 702
   },
   {
     "id": 703,
+    "slug": 703,
     "identifier": "carbink",
     "species_id": 703
   },
   {
     "id": 704,
+    "slug": 704,
     "identifier": "goomy",
     "species_id": 704
   },
   {
     "id": 705,
+    "slug": 705,
     "identifier": "sliggoo",
     "species_id": 705
   },
   {
     "id": 706,
+    "slug": 706,
     "identifier": "goodra",
     "species_id": 706
   },
   {
     "id": 707,
+    "slug": 707,
     "identifier": "klefki",
     "species_id": 707
   },
   {
     "id": 708,
+    "slug": 708,
     "identifier": "phantump",
     "species_id": 708
   },
   {
     "id": 709,
+    "slug": 709,
     "identifier": "trevenant",
     "species_id": 709
   },
   {
     "id": 710,
+    "slug": 710,
     "identifier": "pumpkaboo-average",
     "species_id": 710
   },
   {
     "id": 711,
+    "slug": 711,
     "identifier": "gourgeist-average",
     "species_id": 711
   },
   {
     "id": 712,
+    "slug": 712,
     "identifier": "bergmite",
     "species_id": 712
   },
   {
     "id": 713,
+    "slug": 713,
     "identifier": "avalugg",
     "species_id": 713
   },
   {
     "id": 714,
+    "slug": 714,
     "identifier": "noibat",
     "species_id": 714
   },
   {
     "id": 715,
+    "slug": 715,
     "identifier": "noivern",
     "species_id": 715
   },
   {
     "id": 716,
+    "slug": 716,
     "identifier": "xerneas",
     "species_id": 716
   },
   {
     "id": 717,
+    "slug": 717,
     "identifier": "yveltal",
     "species_id": 717
   },
   {
     "id": 718,
+    "slug": 718,
     "identifier": "zygarde",
     "species_id": 718
   },
   {
     "id": 719,
+    "slug": 719,
     "identifier": "diancie",
     "species_id": 719
   },
   {
     "id": 720,
+    "slug": 720,
     "identifier": "hoopa",
     "species_id": 720
   },
   {
     "id": 721,
+    "slug": 721,
     "identifier": "volcanion",
     "species_id": 721
   },
   {
     "id": 722,
+    "slug": 722,
     "identifier": "rowlet",
     "species_id": 722
   },
   {
     "id": 723,
+    "slug": 723,
     "identifier": "dartrix",
     "species_id": 723
   },
   {
     "id": 724,
+    "slug": 724,
     "identifier": "decidueye",
     "species_id": 724
   },
   {
     "id": 725,
+    "slug": 725,
     "identifier": "litten",
     "species_id": 725
   },
   {
     "id": 726,
+    "slug": 726,
     "identifier": "torracat",
     "species_id": 726
   },
   {
     "id": 727,
+    "slug": 727,
     "identifier": "incineroar",
     "species_id": 727
   },
   {
     "id": 728,
+    "slug": 728,
     "identifier": "popplio",
     "species_id": 728
   },
   {
     "id": 729,
+    "slug": 729,
     "identifier": "brionne",
     "species_id": 729
   },
   {
     "id": 730,
+    "slug": 730,
     "identifier": "primarina",
     "species_id": 730
   },
   {
     "id": 731,
+    "slug": 731,
     "identifier": "pikipek",
     "species_id": 731
   },
   {
     "id": 732,
+    "slug": 732,
     "identifier": "trumbeak",
     "species_id": 732
   },
   {
     "id": 733,
+    "slug": 733,
     "identifier": "toucannon",
     "species_id": 733
   },
   {
     "id": 734,
+    "slug": 734,
     "identifier": "yungoos",
     "species_id": 734
   },
   {
     "id": 735,
+    "slug": 735,
     "identifier": "gumshoos",
     "species_id": 735
   },
   {
     "id": 736,
+    "slug": 736,
     "identifier": "grubbin",
     "species_id": 736
   },
   {
     "id": 737,
+    "slug": 737,
     "identifier": "charjabug",
     "species_id": 737
   },
   {
     "id": 738,
+    "slug": 738,
     "identifier": "vikavolt",
     "species_id": 738
   },
   {
     "id": 739,
+    "slug": 739,
     "identifier": "crabrawler",
     "species_id": 739
   },
   {
     "id": 740,
+    "slug": 740,
     "identifier": "crabominable",
     "species_id": 740
   },
   {
     "id": 741,
+    "slug": 741,
     "identifier": "oricorio-baile",
     "species_id": 741
   },
   {
     "id": 742,
+    "slug": 742,
     "identifier": "cutiefly",
     "species_id": 742
   },
   {
     "id": 743,
+    "slug": 743,
     "identifier": "ribombee",
     "species_id": 743
   },
   {
     "id": 744,
+    "slug": 744,
     "identifier": "rockruff",
     "species_id": 744
   },
   {
     "id": 745,
+    "slug": 745,
     "identifier": "lycanroc-midday",
     "species_id": 745
   },
   {
     "id": 746,
+    "slug": 746,
     "identifier": "wishiwashi-solo",
     "species_id": 746
   },
   {
     "id": 747,
+    "slug": 747,
     "identifier": "mareanie",
     "species_id": 747
   },
   {
     "id": 748,
+    "slug": 748,
     "identifier": "toxapex",
     "species_id": 748
   },
   {
     "id": 749,
+    "slug": 749,
     "identifier": "mudbray",
     "species_id": 749
   },
   {
     "id": 750,
+    "slug": 750,
     "identifier": "mudsdale",
     "species_id": 750
   },
   {
     "id": 751,
+    "slug": 751,
     "identifier": "dewpider",
     "species_id": 751
   },
   {
     "id": 752,
+    "slug": 752,
     "identifier": "araquanid",
     "species_id": 752
   },
   {
     "id": 753,
+    "slug": 753,
     "identifier": "fomantis",
     "species_id": 753
   },
   {
     "id": 754,
+    "slug": 754,
     "identifier": "lurantis",
     "species_id": 754
   },
   {
     "id": 755,
+    "slug": 755,
     "identifier": "morelull",
     "species_id": 755
   },
   {
     "id": 756,
+    "slug": 756,
     "identifier": "shiinotic",
     "species_id": 756
   },
   {
     "id": 757,
+    "slug": 757,
     "identifier": "salandit",
     "species_id": 757
   },
   {
     "id": 758,
+    "slug": 758,
     "identifier": "salazzle",
     "species_id": 758
   },
   {
     "id": 759,
+    "slug": 759,
     "identifier": "stufful",
     "species_id": 759
   },
   {
     "id": 760,
+    "slug": 760,
     "identifier": "bewear",
     "species_id": 760
   },
   {
     "id": 761,
+    "slug": 761,
     "identifier": "bounsweet",
     "species_id": 761
   },
   {
     "id": 762,
+    "slug": 762,
     "identifier": "steenee",
     "species_id": 762
   },
   {
     "id": 763,
+    "slug": 763,
     "identifier": "tsareena",
     "species_id": 763
   },
   {
     "id": 764,
+    "slug": 764,
     "identifier": "comfey",
     "species_id": 764
   },
   {
     "id": 765,
+    "slug": 765,
     "identifier": "oranguru",
     "species_id": 765
   },
   {
     "id": 766,
+    "slug": 766,
     "identifier": "passimian",
     "species_id": 766
   },
   {
     "id": 767,
+    "slug": 767,
     "identifier": "wimpod",
     "species_id": 767
   },
   {
     "id": 768,
+    "slug": 768,
     "identifier": "golisopod",
     "species_id": 768
   },
   {
     "id": 769,
+    "slug": 769,
     "identifier": "sandygast",
     "species_id": 769
   },
   {
     "id": 770,
+    "slug": 770,
     "identifier": "palossand",
     "species_id": 770
   },
   {
     "id": 771,
+    "slug": 771,
     "identifier": "pyukumuku",
     "species_id": 771
   },
   {
     "id": 772,
+    "slug": 772,
     "identifier": "type-null",
     "species_id": 772
   },
   {
     "id": 773,
+    "slug": 773,
     "identifier": "silvally",
     "species_id": 773
   },
   {
     "id": 774,
+    "slug": 774,
     "identifier": "minior-red-meteor",
     "species_id": 774
   },
   {
     "id": 775,
+    "slug": 775,
     "identifier": "komala",
     "species_id": 775
   },
   {
     "id": 776,
+    "slug": 776,
     "identifier": "turtonator",
     "species_id": 776
   },
   {
     "id": 777,
+    "slug": 777,
     "identifier": "togedemaru",
     "species_id": 777
   },
   {
     "id": 778,
+    "slug": 778,
     "identifier": "mimikyu-disguised",
     "species_id": 778
   },
   {
     "id": 779,
+    "slug": 779,
     "identifier": "bruxish",
     "species_id": 779
   },
   {
     "id": 780,
+    "slug": 780,
     "identifier": "drampa",
     "species_id": 780
   },
   {
     "id": 781,
+    "slug": 781,
     "identifier": "dhelmise",
     "species_id": 781
   },
   {
     "id": 782,
+    "slug": 782,
     "identifier": "jangmo-o",
     "species_id": 782
   },
   {
     "id": 783,
+    "slug": 783,
     "identifier": "hakamo-o",
     "species_id": 783
   },
   {
     "id": 784,
+    "slug": 784,
     "identifier": "kommo-o",
     "species_id": 784
   },
   {
     "id": 785,
+    "slug": 785,
     "identifier": "tapu-koko",
     "species_id": 785
   },
   {
     "id": 786,
+    "slug": 786,
     "identifier": "tapu-lele",
     "species_id": 786
   },
   {
     "id": 787,
+    "slug": 787,
     "identifier": "tapu-bulu",
     "species_id": 787
   },
   {
     "id": 788,
+    "slug": 788,
     "identifier": "tapu-fini",
     "species_id": 788
   },
   {
     "id": 789,
+    "slug": 789,
     "identifier": "cosmog",
     "species_id": 789
   },
   {
     "id": 790,
+    "slug": 790,
     "identifier": "cosmoem",
     "species_id": 790
   },
   {
     "id": 791,
+    "slug": 791,
     "identifier": "solgaleo",
     "species_id": 791
   },
   {
     "id": 792,
+    "slug": 792,
     "identifier": "lunala",
     "species_id": 792
   },
   {
     "id": 793,
+    "slug": 793,
     "identifier": "nihilego",
     "species_id": 793
   },
   {
     "id": 794,
+    "slug": 794,
     "identifier": "buzzwole",
     "species_id": 794
   },
   {
     "id": 795,
+    "slug": 795,
     "identifier": "pheromosa",
     "species_id": 795
   },
   {
     "id": 796,
+    "slug": 796,
     "identifier": "xurkitree",
     "species_id": 796
   },
   {
     "id": 797,
+    "slug": 797,
     "identifier": "celesteela",
     "species_id": 797
   },
   {
     "id": 798,
+    "slug": 798,
     "identifier": "kartana",
     "species_id": 798
   },
   {
     "id": 799,
+    "slug": 799,
     "identifier": "guzzlord",
     "species_id": 799
   },
   {
     "id": 800,
+    "slug": 800,
     "identifier": "necrozma",
     "species_id": 800
   },
   {
     "id": 801,
+    "slug": 801,
     "identifier": "magearna",
     "species_id": 801
   },
   {
     "id": 802,
+    "slug": 802,
     "identifier": "marshadow",
     "species_id": 802
   },
   {
     "id": 803,
+    "slug": 803,
     "identifier": "poipole",
     "species_id": 803
   },
   {
     "id": 804,
+    "slug": 804,
     "identifier": "naganadel",
     "species_id": 804
   },
   {
     "id": 805,
+    "slug": 805,
     "identifier": "stakataka",
     "species_id": 805
   },
   {
     "id": 806,
+    "slug": 806,
     "identifier": "blacephalon",
     "species_id": 806
   },
   {
     "id": 807,
+    "slug": 807,
     "identifier": "zeraora",
     "species_id": 807
   },
   {
     "id": 808,
+    "slug": 808,
     "identifier": "meltan",
     "species_id": 808
   },
   {
     "id": 809,
+    "slug": 809,
     "identifier": "melmetal",
     "species_id": 809
   },
   {
     "id": 810,
+    "slug": 810,
     "identifier": "grookey",
     "species_id": 810
   },
   {
     "id": 811,
+    "slug": 811,
     "identifier": "thwackey",
     "species_id": 811
   },
   {
     "id": 812,
+    "slug": 812,
     "identifier": "rillaboom",
     "species_id": 812
   },
   {
     "id": 813,
+    "slug": 813,
     "identifier": "scorbunny",
     "species_id": 813
   },
   {
     "id": 814,
+    "slug": 814,
     "identifier": "raboot",
     "species_id": 814
   },
   {
     "id": 815,
+    "slug": 815,
     "identifier": "cinderace",
     "species_id": 815
   },
   {
     "id": 816,
+    "slug": 816,
     "identifier": "sobble",
     "species_id": 816
   },
   {
     "id": 817,
+    "slug": 817,
     "identifier": "drizzile",
     "species_id": 817
   },
   {
     "id": 818,
+    "slug": 818,
     "identifier": "inteleon",
     "species_id": 818
   },
   {
     "id": 819,
+    "slug": 819,
     "identifier": "skwovet",
     "species_id": 819
   },
   {
     "id": 820,
+    "slug": 820,
     "identifier": "greedent",
     "species_id": 820
   },
   {
     "id": 821,
+    "slug": 821,
     "identifier": "rookidee",
     "species_id": 821
   },
   {
     "id": 822,
+    "slug": 822,
     "identifier": "corvisquire",
     "species_id": 822
   },
   {
     "id": 823,
+    "slug": 823,
     "identifier": "corviknight",
     "species_id": 823
   },
   {
     "id": 824,
+    "slug": 824,
     "identifier": "blipbug",
     "species_id": 824
   },
   {
     "id": 825,
+    "slug": 825,
     "identifier": "dottler",
     "species_id": 825
   },
   {
     "id": 826,
+    "slug": 826,
     "identifier": "orbeetle",
     "species_id": 826
   },
   {
     "id": 827,
+    "slug": 827,
     "identifier": "nickit",
     "species_id": 827
   },
   {
     "id": 828,
+    "slug": 828,
     "identifier": "thievul",
     "species_id": 828
   },
   {
     "id": 829,
+    "slug": 829,
     "identifier": "gossifleur",
     "species_id": 829
   },
   {
     "id": 830,
+    "slug": 830,
     "identifier": "eldegoss",
     "species_id": 830
   },
   {
     "id": 831,
+    "slug": 831,
     "identifier": "wooloo",
     "species_id": 831
   },
   {
     "id": 832,
+    "slug": 832,
     "identifier": "dubwool",
     "species_id": 832
   },
   {
     "id": 833,
+    "slug": 833,
     "identifier": "chewtle",
     "species_id": 833
   },
   {
     "id": 834,
+    "slug": 834,
     "identifier": "drednaw",
     "species_id": 834
   },
   {
     "id": 835,
+    "slug": 835,
     "identifier": "yamper",
     "species_id": 835
   },
   {
     "id": 836,
+    "slug": 836,
     "identifier": "boltund",
     "species_id": 836
   },
   {
     "id": 837,
+    "slug": 837,
     "identifier": "rolycoly",
     "species_id": 837
   },
   {
     "id": 838,
+    "slug": 838,
     "identifier": "carkol",
     "species_id": 838
   },
   {
     "id": 839,
+    "slug": 839,
     "identifier": "coalossal",
     "species_id": 839
   },
   {
     "id": 840,
+    "slug": 840,
     "identifier": "applin",
     "species_id": 840
   },
   {
     "id": 841,
+    "slug": 841,
     "identifier": "flapple",
     "species_id": 841
   },
   {
     "id": 842,
+    "slug": 842,
     "identifier": "appletun",
     "species_id": 842
   },
   {
     "id": 843,
+    "slug": 843,
     "identifier": "silicobra",
     "species_id": 843
   },
   {
     "id": 844,
+    "slug": 844,
     "identifier": "sandaconda",
     "species_id": 844
   },
   {
     "id": 845,
+    "slug": 845,
     "identifier": "cramorant",
     "species_id": 845
   },
   {
     "id": 846,
+    "slug": 846,
     "identifier": "arrokuda",
     "species_id": 846
   },
   {
     "id": 847,
+    "slug": 847,
     "identifier": "barraskewda",
     "species_id": 847
   },
   {
     "id": 848,
+    "slug": 848,
     "identifier": "toxel",
     "species_id": 848
   },
   {
     "id": 849,
+    "slug": 849,
     "identifier": "toxtricity-amped",
     "species_id": 849
   },
   {
     "id": 850,
+    "slug": 850,
     "identifier": "sizzlipede",
     "species_id": 850
   },
   {
     "id": 851,
+    "slug": 851,
     "identifier": "centiskorch",
     "species_id": 851
   },
   {
     "id": 852,
+    "slug": 852,
     "identifier": "clobbopus",
     "species_id": 852
   },
   {
     "id": 853,
+    "slug": 853,
     "identifier": "grapploct",
     "species_id": 853
   },
   {
     "id": 854,
+    "slug": 854,
     "identifier": "sinistea",
     "species_id": 854
   },
   {
     "id": 855,
+    "slug": 855,
     "identifier": "polteageist",
     "species_id": 855
   },
   {
     "id": 856,
+    "slug": 856,
     "identifier": "hatenna",
     "species_id": 856
   },
   {
     "id": 857,
+    "slug": 857,
     "identifier": "hattrem",
     "species_id": 857
   },
   {
     "id": 858,
+    "slug": 858,
     "identifier": "hatterene",
     "species_id": 858
   },
   {
     "id": 859,
+    "slug": 859,
     "identifier": "impidimp",
     "species_id": 859
   },
   {
     "id": 860,
+    "slug": 860,
     "identifier": "morgrem",
     "species_id": 860
   },
   {
     "id": 861,
+    "slug": 861,
     "identifier": "grimmsnarl",
     "species_id": 861
   },
   {
     "id": 862,
+    "slug": 862,
     "identifier": "obstagoon",
     "species_id": 862
   },
   {
     "id": 863,
+    "slug": 863,
     "identifier": "perrserker",
     "species_id": 863
   },
   {
     "id": 864,
+    "slug": 864,
     "identifier": "cursola",
     "species_id": 864
   },
   {
     "id": 865,
+    "slug": 865,
     "identifier": "sirfetchd",
     "species_id": 865
   },
   {
     "id": 866,
+    "slug": 866,
     "identifier": "mr-rime",
     "species_id": 866
   },
   {
     "id": 867,
+    "slug": 867,
     "identifier": "runerigus",
     "species_id": 867
   },
   {
     "id": 868,
+    "slug": 868,
     "identifier": "milcery",
     "species_id": 868
   },
   {
     "id": 869,
+    "slug": 869,
     "identifier": "alcremie",
     "species_id": 869
   },
   {
     "id": 870,
+    "slug": 870,
     "identifier": "falinks",
     "species_id": 870
   },
   {
     "id": 871,
+    "slug": 871,
     "identifier": "pincurchin",
     "species_id": 871
   },
   {
     "id": 872,
+    "slug": 872,
     "identifier": "snom",
     "species_id": 872
   },
   {
     "id": 873,
+    "slug": 873,
     "identifier": "frosmoth",
     "species_id": 873
   },
   {
     "id": 874,
+    "slug": 874,
     "identifier": "stonjourner",
     "species_id": 874
   },
   {
     "id": 875,
+    "slug": 875,
     "identifier": "eiscue-ice",
     "species_id": 875
   },
   {
     "id": 876,
+    "slug": 876,
     "identifier": "indeedee-male",
     "species_id": 876
   },
   {
     "id": 877,
+    "slug": 877,
     "identifier": "morpeko",
     "species_id": 877
   },
   {
     "id": 878,
+    "slug": 878,
     "identifier": "cufant",
     "species_id": 878
   },
   {
     "id": 879,
+    "slug": 879,
     "identifier": "copperajah",
     "species_id": 879
   },
   {
     "id": 880,
+    "slug": 880,
     "identifier": "dracozolt",
     "species_id": 880
   },
   {
     "id": 881,
+    "slug": 881,
     "identifier": "arctozolt",
     "species_id": 881
   },
   {
     "id": 882,
+    "slug": 882,
     "identifier": "dracovish",
     "species_id": 882
   },
   {
     "id": 883,
+    "slug": 883,
     "identifier": "arctovish",
     "species_id": 883
   },
   {
     "id": 884,
+    "slug": 884,
     "identifier": "duraludon",
     "species_id": 884
   },
   {
     "id": 885,
+    "slug": 885,
     "identifier": "dreepy",
     "species_id": 885
   },
   {
     "id": 886,
+    "slug": 886,
     "identifier": "drakloak",
     "species_id": 886
   },
   {
     "id": 887,
+    "slug": 887,
     "identifier": "dragapult",
     "species_id": 887
   },
   {
     "id": 888,
+    "slug": 888,
     "identifier": "zacian-hero",
     "species_id": 888
   },
   {
     "id": 889,
+    "slug": 889,
     "identifier": "zamazenta-hero",
     "species_id": 889
   },
   {
     "id": 890,
+    "slug": 890,
     "identifier": "eternatus",
     "species_id": 890
   },
   {
     "id": 891,
+    "slug": 891,
     "identifier": "kubfu",
     "species_id": 891
   },
   {
     "id": 892,
+    "slug": 892,
     "identifier": "urshifu-single-strike",
     "species_id": 892
   },
   {
     "id": 893,
+    "slug": 893,
     "identifier": "zarude",
     "species_id": 893
   },
   {
     "id": 894,
+    "slug": 894,
     "identifier": "regieleki",
     "species_id": 894
   },
   {
     "id": 895,
+    "slug": 895,
     "identifier": "regidrago",
     "species_id": 895
   },
   {
     "id": 896,
+    "slug": 896,
     "identifier": "glastrier",
     "species_id": 896
   },
   {
     "id": 897,
+    "slug": 897,
     "identifier": "spectrier",
     "species_id": 897
   },
   {
     "id": 898,
+    "slug": 898,
     "identifier": "calyrex",
     "species_id": 898
   },
   {
     "id": 10001,
+    "slug": 10001,
     "identifier": "deoxys-attack",
     "species_id": 386
   },
   {
     "id": 10002,
+    "slug": 10002,
     "identifier": "deoxys-defense",
     "species_id": 386
   },
   {
     "id": 10003,
+    "slug": 10003,
     "identifier": "deoxys-speed",
     "species_id": 386
   },
   {
     "id": 10004,
+    "slug": 10004,
     "identifier": "wormadam-sandy",
     "species_id": 413
   },
   {
     "id": 10005,
+    "slug": 10005,
     "identifier": "wormadam-trash",
     "species_id": 413
   },
   {
     "id": 10006,
+    "slug": 10006,
     "identifier": "shaymin-sky",
     "species_id": 492
   },
   {
     "id": 10007,
+    "slug": 10007,
     "identifier": "giratina-origin",
     "species_id": 487
   },
   {
     "id": 10008,
+    "slug": 10008,
     "identifier": "rotom-heat",
     "species_id": 479
   },
   {
     "id": 10009,
+    "slug": 10009,
     "identifier": "rotom-wash",
     "species_id": 479
   },
   {
     "id": 10010,
+    "slug": 10010,
     "identifier": "rotom-frost",
     "species_id": 479
   },
   {
     "id": 10011,
+    "slug": 10011,
     "identifier": "rotom-fan",
     "species_id": 479
   },
   {
     "id": 10012,
+    "slug": 10012,
     "identifier": "rotom-mow",
     "species_id": 479
   },
   {
     "id": 10013,
+    "slug": 10013,
     "identifier": "castform-sunny",
     "species_id": 351
   },
   {
     "id": 10014,
+    "slug": 10014,
     "identifier": "castform-rainy",
     "species_id": 351
   },
   {
     "id": 10015,
+    "slug": 10015,
     "identifier": "castform-snowy",
     "species_id": 351
   },
   {
     "id": 10016,
+    "slug": 10016,
     "identifier": "basculin-blue-striped",
     "species_id": 550
   },
   {
     "id": 10017,
+    "slug": 10017,
     "identifier": "darmanitan-zen",
     "species_id": 555
   },
   {
     "id": 10018,
+    "slug": 10018,
     "identifier": "meloetta-pirouette",
     "species_id": 648
   },
   {
     "id": 10019,
+    "slug": 10019,
     "identifier": "tornadus-therian",
     "species_id": 641
   },
   {
     "id": 10020,
+    "slug": 10020,
     "identifier": "thundurus-therian",
     "species_id": 642
   },
   {
     "id": 10021,
+    "slug": 10021,
     "identifier": "landorus-therian",
     "species_id": 645
   },
   {
     "id": 10022,
+    "slug": 10022,
     "identifier": "kyurem-black",
     "species_id": 646
   },
   {
     "id": 10023,
+    "slug": 10023,
     "identifier": "kyurem-white",
     "species_id": 646
   },
   {
     "id": 10024,
+    "slug": 10024,
     "identifier": "keldeo-resolute",
     "species_id": 647
   },
   {
     "id": 10025,
+    "slug": 10025,
     "identifier": "meowstic-female",
     "species_id": 678
   },
   {
     "id": 10026,
+    "slug": 10026,
     "identifier": "aegislash-blade",
     "species_id": 681
   },
   {
     "id": 10027,
+    "slug": 10027,
     "identifier": "pumpkaboo-small",
     "species_id": 710
   },
   {
     "id": 10028,
+    "slug": 10028,
     "identifier": "pumpkaboo-large",
     "species_id": 710
   },
   {
     "id": 10029,
+    "slug": 10029,
     "identifier": "pumpkaboo-super",
     "species_id": 710
   },
   {
     "id": 10030,
+    "slug": 10030,
     "identifier": "gourgeist-small",
     "species_id": 711
   },
   {
     "id": 10031,
+    "slug": 10031,
     "identifier": "gourgeist-large",
     "species_id": 711
   },
   {
     "id": 10032,
+    "slug": 10032,
     "identifier": "gourgeist-super",
     "species_id": 711
   },
   {
     "id": 10033,
+    "slug": 10033,
     "identifier": "venusaur-mega",
     "species_id": 3
   },
   {
     "id": 10034,
+    "slug": 10034,
     "identifier": "charizard-mega-x",
     "species_id": 6
   },
   {
     "id": 10035,
+    "slug": 10035,
     "identifier": "charizard-mega-y",
     "species_id": 6
   },
   {
     "id": 10036,
+    "slug": 10036,
     "identifier": "blastoise-mega",
     "species_id": 9
   },
   {
     "id": 10037,
+    "slug": 10037,
     "identifier": "alakazam-mega",
     "species_id": 65
   },
   {
     "id": 10038,
+    "slug": 10038,
     "identifier": "gengar-mega",
     "species_id": 94
   },
   {
     "id": 10039,
+    "slug": 10039,
     "identifier": "kangaskhan-mega",
     "species_id": 115
   },
   {
     "id": 10040,
+    "slug": 10040,
     "identifier": "pinsir-mega",
     "species_id": 127
   },
   {
     "id": 10041,
+    "slug": 10041,
     "identifier": "gyarados-mega",
     "species_id": 130
   },
   {
     "id": 10042,
+    "slug": 10042,
     "identifier": "aerodactyl-mega",
     "species_id": 142
   },
   {
     "id": 10043,
+    "slug": 10043,
     "identifier": "mewtwo-mega-x",
     "species_id": 150
   },
   {
     "id": 10044,
+    "slug": 10044,
     "identifier": "mewtwo-mega-y",
     "species_id": 150
   },
   {
     "id": 10045,
+    "slug": 10045,
     "identifier": "ampharos-mega",
     "species_id": 181
   },
   {
     "id": 10046,
+    "slug": 10046,
     "identifier": "scizor-mega",
     "species_id": 212
   },
   {
     "id": 10047,
+    "slug": 10047,
     "identifier": "heracross-mega",
     "species_id": 214
   },
   {
     "id": 10048,
+    "slug": 10048,
     "identifier": "houndoom-mega",
     "species_id": 229
   },
   {
     "id": 10049,
+    "slug": 10049,
     "identifier": "tyranitar-mega",
     "species_id": 248
   },
   {
     "id": 10050,
+    "slug": 10050,
     "identifier": "blaziken-mega",
     "species_id": 257
   },
   {
     "id": 10051,
+    "slug": 10051,
     "identifier": "gardevoir-mega",
     "species_id": 282
   },
   {
     "id": 10052,
+    "slug": 10052,
     "identifier": "mawile-mega",
     "species_id": 303
   },
   {
     "id": 10053,
+    "slug": 10053,
     "identifier": "aggron-mega",
     "species_id": 306
   },
   {
     "id": 10054,
+    "slug": 10054,
     "identifier": "medicham-mega",
     "species_id": 308
   },
   {
     "id": 10055,
+    "slug": 10055,
     "identifier": "manectric-mega",
     "species_id": 310
   },
   {
     "id": 10056,
+    "slug": 10056,
     "identifier": "banette-mega",
     "species_id": 354
   },
   {
     "id": 10057,
+    "slug": 10057,
     "identifier": "absol-mega",
     "species_id": 359
   },
   {
     "id": 10058,
+    "slug": 10058,
     "identifier": "garchomp-mega",
     "species_id": 445
   },
   {
     "id": 10059,
+    "slug": 10059,
     "identifier": "lucario-mega",
     "species_id": 448
   },
   {
     "id": 10060,
+    "slug": 10060,
     "identifier": "abomasnow-mega",
     "species_id": 460
   },
   {
     "id": 10061,
+    "slug": 10061,
     "identifier": "floette-eternal",
     "species_id": 670
   },
   {
     "id": 10062,
+    "slug": 10062,
     "identifier": "latias-mega",
     "species_id": 380
   },
   {
     "id": 10063,
+    "slug": 10063,
     "identifier": "latios-mega",
     "species_id": 381
   },
   {
     "id": 10064,
+    "slug": 10064,
     "identifier": "swampert-mega",
     "species_id": 260
   },
   {
     "id": 10065,
+    "slug": 10065,
     "identifier": "sceptile-mega",
     "species_id": 254
   },
   {
     "id": 10066,
+    "slug": 10066,
     "identifier": "sableye-mega",
     "species_id": 302
   },
   {
     "id": 10067,
+    "slug": 10067,
     "identifier": "altaria-mega",
     "species_id": 334
   },
   {
     "id": 10068,
+    "slug": 10068,
     "identifier": "gallade-mega",
     "species_id": 475
   },
   {
     "id": 10069,
+    "slug": 10069,
     "identifier": "audino-mega",
     "species_id": 531
   },
   {
     "id": 10070,
+    "slug": 10070,
     "identifier": "sharpedo-mega",
     "species_id": 319
   },
   {
     "id": 10071,
+    "slug": 10071,
     "identifier": "slowbro-mega",
     "species_id": 80
   },
   {
     "id": 10072,
+    "slug": 10072,
     "identifier": "steelix-mega",
     "species_id": 208
   },
   {
     "id": 10073,
+    "slug": 10073,
     "identifier": "pidgeot-mega",
     "species_id": 18
   },
   {
     "id": 10074,
+    "slug": 10074,
     "identifier": "glalie-mega",
     "species_id": 362
   },
   {
     "id": 10075,
+    "slug": 10075,
     "identifier": "diancie-mega",
     "species_id": 719
   },
   {
     "id": 10076,
+    "slug": 10076,
     "identifier": "metagross-mega",
     "species_id": 376
   },
   {
     "id": 10077,
+    "slug": 10077,
     "identifier": "kyogre-primal",
     "species_id": 382
   },
   {
     "id": 10078,
+    "slug": 10078,
     "identifier": "groudon-primal",
     "species_id": 383
   },
   {
     "id": 10079,
+    "slug": 10079,
     "identifier": "rayquaza-mega",
     "species_id": 384
   },
   {
-    "id": 10080,
-    "identifier": "pikachu-rock-star",
-    "species_id": 25
-  },
-  {
-    "id": 10081,
-    "identifier": "pikachu-belle",
-    "species_id": 25
-  },
-  {
-    "id": 10082,
-    "identifier": "pikachu-pop-star",
-    "species_id": 25
-  },
-  {
-    "id": 10083,
-    "identifier": "pikachu-phd",
-    "species_id": 25
-  },
-  {
-    "id": 10084,
-    "identifier": "pikachu-libre",
-    "species_id": 25
-  },
-  {
-    "id": 10085,
-    "identifier": "pikachu-cosplay",
-    "species_id": 25
-  },
-  {
     "id": 10086,
+    "slug": 10086,
     "identifier": "hoopa-unbound",
     "species_id": 720
   },
   {
     "id": 10087,
+    "slug": 10087,
     "identifier": "camerupt-mega",
     "species_id": 323
   },
   {
     "id": 10088,
+    "slug": 10088,
     "identifier": "lopunny-mega",
     "species_id": 428
   },
   {
     "id": 10089,
+    "slug": 10089,
     "identifier": "salamence-mega",
     "species_id": 373
   },
   {
     "id": 10090,
+    "slug": 10090,
     "identifier": "beedrill-mega",
     "species_id": 15
   },
   {
     "id": 10091,
+    "slug": 10091,
     "identifier": "rattata-alola",
     "species_id": 19
   },
   {
     "id": 10092,
+    "slug": 10092,
     "identifier": "raticate-alola",
     "species_id": 20
   },
   {
     "id": 10093,
+    "slug": 10093,
     "identifier": "raticate-totem-alola",
     "species_id": 20
   },
   {
-    "id": 10094,
-    "identifier": "pikachu-original-cap",
-    "species_id": 25
-  },
-  {
-    "id": 10095,
-    "identifier": "pikachu-hoenn-cap",
-    "species_id": 25
-  },
-  {
-    "id": 10096,
-    "identifier": "pikachu-sinnoh-cap",
-    "species_id": 25
-  },
-  {
-    "id": 10097,
-    "identifier": "pikachu-unova-cap",
-    "species_id": 25
-  },
-  {
-    "id": 10098,
-    "identifier": "pikachu-kalos-cap",
-    "species_id": 25
-  },
-  {
-    "id": 10099,
-    "identifier": "pikachu-alola-cap",
-    "species_id": 25
-  },
-  {
     "id": 10100,
+    "slug": 10100,
     "identifier": "raichu-alola",
     "species_id": 26
   },
   {
     "id": 10101,
+    "slug": 10101,
     "identifier": "sandshrew-alola",
     "species_id": 27
   },
   {
     "id": 10102,
+    "slug": 10102,
     "identifier": "sandslash-alola",
     "species_id": 28
   },
   {
     "id": 10103,
+    "slug": 10103,
     "identifier": "vulpix-alola",
     "species_id": 37
   },
   {
     "id": 10104,
+    "slug": 10104,
     "identifier": "ninetales-alola",
     "species_id": 38
   },
   {
     "id": 10105,
+    "slug": 10105,
     "identifier": "diglett-alola",
     "species_id": 50
   },
   {
     "id": 10106,
+    "slug": 10106,
     "identifier": "dugtrio-alola",
     "species_id": 51
   },
   {
     "id": 10107,
+    "slug": 10107,
     "identifier": "meowth-alola",
     "species_id": 52
   },
   {
     "id": 10108,
+    "slug": 10108,
     "identifier": "persian-alola",
     "species_id": 53
   },
   {
     "id": 10109,
+    "slug": 10109,
     "identifier": "geodude-alola",
     "species_id": 74
   },
   {
     "id": 10110,
+    "slug": 10110,
     "identifier": "graveler-alola",
     "species_id": 75
   },
   {
     "id": 10111,
+    "slug": 10111,
     "identifier": "golem-alola",
     "species_id": 76
   },
   {
     "id": 10112,
+    "slug": 10112,
     "identifier": "grimer-alola",
     "species_id": 88
   },
   {
     "id": 10113,
+    "slug": 10113,
     "identifier": "muk-alola",
     "species_id": 89
   },
   {
     "id": 10114,
+    "slug": 10114,
     "identifier": "exeggutor-alola",
     "species_id": 103
   },
   {
     "id": 10115,
+    "slug": 10115,
     "identifier": "marowak-alola",
     "species_id": 105
   },
   {
     "id": 10116,
+    "slug": 10116,
     "identifier": "greninja-battle-bond",
     "species_id": 658
   },
   {
     "id": 10117,
+    "slug": 10117,
     "identifier": "greninja-ash",
     "species_id": 658
   },
   {
     "id": 10118,
+    "slug": 10118,
     "identifier": "zygarde-10",
     "species_id": 718
   },
   {
     "id": 10119,
+    "slug": 10119,
     "identifier": "zygarde-50",
     "species_id": 718
   },
   {
     "id": 10120,
+    "slug": 10120,
     "identifier": "zygarde-complete",
     "species_id": 718
   },
   {
     "id": 10121,
+    "slug": 10121,
     "identifier": "gumshoos-totem",
     "species_id": 735
   },
   {
     "id": 10122,
+    "slug": 10122,
     "identifier": "vikavolt-totem",
     "species_id": 738
   },
   {
     "id": 10123,
+    "slug": 10123,
     "identifier": "oricorio-pom-pom",
     "species_id": 741
   },
   {
     "id": 10124,
+    "slug": 10124,
     "identifier": "oricorio-pau",
     "species_id": 741
   },
   {
     "id": 10125,
+    "slug": 10125,
     "identifier": "oricorio-sensu",
     "species_id": 741
   },
   {
     "id": 10126,
+    "slug": 10126,
     "identifier": "lycanroc-midnight",
     "species_id": 745
   },
   {
     "id": 10127,
+    "slug": 10127,
     "identifier": "wishiwashi-school",
     "species_id": 746
   },
   {
     "id": 10128,
+    "slug": 10128,
     "identifier": "lurantis-totem",
     "species_id": 754
   },
   {
     "id": 10129,
+    "slug": 10129,
     "identifier": "salazzle-totem",
     "species_id": 758
   },
   {
     "id": 10130,
+    "slug": 10130,
     "identifier": "minior-orange-meteor",
     "species_id": 774
   },
   {
     "id": 10131,
+    "slug": 10131,
     "identifier": "minior-yellow-meteor",
     "species_id": 774
   },
   {
     "id": 10132,
+    "slug": 10132,
     "identifier": "minior-green-meteor",
     "species_id": 774
   },
   {
     "id": 10133,
+    "slug": 10133,
     "identifier": "minior-blue-meteor",
     "species_id": 774
   },
   {
     "id": 10134,
+    "slug": 10134,
     "identifier": "minior-indigo-meteor",
     "species_id": 774
   },
   {
     "id": 10135,
+    "slug": 10135,
     "identifier": "minior-violet-meteor",
     "species_id": 774
   },
   {
     "id": 10136,
+    "slug": 10136,
     "identifier": "minior-red",
     "species_id": 774
   },
   {
     "id": 10137,
+    "slug": 10137,
     "identifier": "minior-orange",
     "species_id": 774
   },
   {
     "id": 10138,
+    "slug": 10138,
     "identifier": "minior-yellow",
     "species_id": 774
   },
   {
     "id": 10139,
+    "slug": 10139,
     "identifier": "minior-green",
     "species_id": 774
   },
   {
     "id": 10140,
+    "slug": 10140,
     "identifier": "minior-blue",
     "species_id": 774
   },
   {
     "id": 10141,
+    "slug": 10141,
     "identifier": "minior-indigo",
     "species_id": 774
   },
   {
     "id": 10142,
+    "slug": 10142,
     "identifier": "minior-violet",
     "species_id": 774
   },
   {
     "id": 10143,
+    "slug": 10143,
     "identifier": "mimikyu-busted",
     "species_id": 778
   },
   {
     "id": 10144,
+    "slug": 10144,
     "identifier": "mimikyu-totem-disguised",
     "species_id": 778
   },
   {
     "id": 10145,
+    "slug": 10145,
     "identifier": "mimikyu-totem-busted",
     "species_id": 778
   },
   {
     "id": 10146,
+    "slug": 10146,
     "identifier": "kommo-o-totem",
     "species_id": 784
   },
   {
     "id": 10147,
+    "slug": 10147,
     "identifier": "magearna-original",
     "species_id": 801
   },
   {
-    "id": 10148,
-    "identifier": "pikachu-partner-cap",
-    "species_id": 25
-  },
-  {
     "id": 10149,
+    "slug": 10149,
     "identifier": "marowak-totem",
     "species_id": 105
   },
   {
     "id": 10150,
+    "slug": 10150,
     "identifier": "ribombee-totem",
     "species_id": 743
   },
   {
     "id": 10151,
+    "slug": 10151,
     "identifier": "rockruff-own-tempo",
     "species_id": 744
   },
   {
     "id": 10152,
+    "slug": 10152,
     "identifier": "lycanroc-dusk",
     "species_id": 745
   },
   {
     "id": 10153,
+    "slug": 10153,
     "identifier": "araquanid-totem",
     "species_id": 752
   },
   {
     "id": 10154,
+    "slug": 10154,
     "identifier": "togedemaru-totem",
     "species_id": 777
   },
   {
     "id": 10155,
+    "slug": 10155,
     "identifier": "necrozma-dusk",
     "species_id": 800
   },
   {
     "id": 10156,
+    "slug": 10156,
     "identifier": "necrozma-dawn",
     "species_id": 800
   },
   {
     "id": 10157,
+    "slug": 10157,
     "identifier": "necrozma-ultra",
     "species_id": 800
   },
   {
     "id": 10158,
+    "slug": 10158,
     "identifier": "meowth-galar",
     "species_id": 52
   },
   {
     "id": 10159,
+    "slug": 10159,
     "identifier": "ponyta-galar",
     "species_id": 77
   },
   {
     "id": 10160,
+    "slug": 10160,
     "identifier": "rapidash-galar",
     "species_id": 78
   },
   {
     "id": 10161,
+    "slug": 10161,
     "identifier": "slowpoke-galar",
     "species_id": 79
   },
   {
     "id": 10162,
+    "slug": 10162,
     "identifier": "slowbro-galar",
     "species_id": 80
   },
   {
     "id": 10163,
+    "slug": 10163,
     "identifier": "farfetchd-galar",
     "species_id": 83
   },
   {
     "id": 10164,
+    "slug": 10164,
     "identifier": "weezing-galar",
     "species_id": 110
   },
   {
     "id": 10165,
+    "slug": 10165,
     "identifier": "mr-mime-galar",
     "species_id": 122
   },
   {
     "id": 10166,
+    "slug": 10166,
     "identifier": "articuno-galar",
     "species_id": 144
   },
   {
     "id": 10167,
+    "slug": 10167,
     "identifier": "zapdos-galar",
     "species_id": 145
   },
   {
     "id": 10168,
+    "slug": 10168,
     "identifier": "moltres-galar",
     "species_id": 146
   },
   {
     "id": 10169,
+    "slug": 10169,
     "identifier": "slowking-galar",
     "species_id": 199
   },
   {
     "id": 10170,
+    "slug": 10170,
     "identifier": "corsola-galar",
     "species_id": 222
   },
   {
     "id": 10171,
+    "slug": 10171,
     "identifier": "zigzagoon-galar",
     "species_id": 263
   },
   {
     "id": 10172,
+    "slug": 10172,
     "identifier": "linoone-galar",
     "species_id": 264
   },
   {
     "id": 10173,
+    "slug": 10173,
     "identifier": "darumaka-galar",
     "species_id": 554
   },
   {
     "id": 10174,
+    "slug": 10174,
     "identifier": "darmanitan-standard-galar",
     "species_id": 555
   },
   {
     "id": 10175,
+    "slug": 10175,
     "identifier": "darmanitan-zen-galar",
     "species_id": 555
   },
   {
     "id": 10176,
+    "slug": 10176,
     "identifier": "yamask-galar",
     "species_id": 562
   },
   {
     "id": 10177,
+    "slug": 10177,
     "identifier": "stunfisk-galar",
     "species_id": 618
   },
   {
     "id": 10178,
+    "slug": 10178,
     "identifier": "toxtricity-low-key",
     "species_id": 849
   },
   {
     "id": 10179,
+    "slug": 10179,
     "identifier": "eiscue-noice",
     "species_id": 875
   },
   {
     "id": 10180,
+    "slug": 10180,
     "identifier": "indeedee-female",
     "species_id": 876
   },
   {
     "id": 10181,
+    "slug": 10181,
     "identifier": "zacian-crowned",
     "species_id": 888
   },
   {
     "id": 10182,
+    "slug": 10182,
     "identifier": "zamazenta-crowned",
     "species_id": 889
   },
   {
     "id": 10183,
+    "slug": 10183,
     "identifier": "urshifu-rapid-strike",
     "species_id": 892
   },
   {
     "id": 10184,
+    "slug": 10184,
     "identifier": "calyrex-ice-rider",
     "species_id": 898
   },
   {
     "id": 10185,
+    "slug": 10185,
     "identifier": "calyrex-shadow-rider",
     "species_id": 898
   },
   {
-    "id": 10186,
-    "identifier": "venusaur-gmax",
-    "species_id": 3
-  },
-  {
-    "id": 10187,
-    "identifier": "charizard-gmax",
-    "species_id": 6
-  },
-  {
-    "id": 10188,
-    "identifier": "blastoise-gmax",
-    "species_id": 9
-  },
-  {
-    "id": 10189,
-    "identifier": "butterfree-gmax",
-    "species_id": 12
-  },
-  {
-    "id": 10190,
-    "identifier": "pikachu-gmax",
-    "species_id": 25
-  },
-  {
-    "id": 10191,
-    "identifier": "meowth-gmax",
-    "species_id": 52
-  },
-  {
-    "id": 10192,
-    "identifier": "machamp-gmax",
-    "species_id": 68
-  },
-  {
-    "id": 10193,
-    "identifier": "gengar-gmax",
-    "species_id": 94
-  },
-  {
-    "id": 10194,
-    "identifier": "kingler-gmax",
-    "species_id": 99
-  },
-  {
-    "id": 10195,
-    "identifier": "lapras-gmax",
-    "species_id": 131
-  },
-  {
-    "id": 10196,
-    "identifier": "eevee-gmax",
-    "species_id": 133
-  },
-  {
-    "id": 10197,
-    "identifier": "snorlax-gmax",
-    "species_id": 143
-  },
-  {
-    "id": 10198,
-    "identifier": "garbodor-gmax",
-    "species_id": 569
-  },
-  {
-    "id": 10199,
-    "identifier": "melmetal-gmax",
-    "species_id": 809
-  },
-  {
-    "id": 10200,
-    "identifier": "rillaboom-gmax",
-    "species_id": 812
-  },
-  {
-    "id": 10201,
-    "identifier": "cinderace-gmax",
-    "species_id": 815
-  },
-  {
-    "id": 10202,
-    "identifier": "inteleon-gmax",
-    "species_id": 818
-  },
-  {
-    "id": 10203,
-    "identifier": "corviknight-gmax",
-    "species_id": 823
-  },
-  {
-    "id": 10204,
-    "identifier": "orbeetle-gmax",
-    "species_id": 826
-  },
-  {
-    "id": 10205,
-    "identifier": "drednaw-gmax",
-    "species_id": 834
-  },
-  {
-    "id": 10206,
-    "identifier": "coalossal-gmax",
-    "species_id": 839
-  },
-  {
-    "id": 10207,
-    "identifier": "flapple-gmax",
-    "species_id": 841
-  },
-  {
-    "id": 10208,
-    "identifier": "appletun-gmax",
-    "species_id": 842
-  },
-  {
-    "id": 10209,
-    "identifier": "sandaconda-gmax",
-    "species_id": 844
-  },
-  {
-    "id": 10210,
-    "identifier": "toxtricity-amped-gmax",
-    "species_id": 849
-  },
-  {
-    "id": 10211,
-    "identifier": "centiskorch-gmax",
-    "species_id": 851
-  },
-  {
-    "id": 10212,
-    "identifier": "hatterene-gmax",
-    "species_id": 858
-  },
-  {
-    "id": 10213,
-    "identifier": "grimmsnarl-gmax",
-    "species_id": 861
-  },
-  {
-    "id": 10214,
-    "identifier": "alcremie-gmax",
-    "species_id": 869
-  },
-  {
-    "id": 10215,
-    "identifier": "copperajah-gmax",
-    "species_id": 879
-  },
-  {
-    "id": 10216,
-    "identifier": "duraludon-gmax",
-    "species_id": 884
-  },
-  {
     "id": 10217,
+    "slug": 10217,
     "identifier": "eternatus-eternamax",
     "species_id": 890
-  },
-  {
-    "id": 10218,
-    "identifier": "urshifu-single-strike-gmax",
-    "species_id": 892
-  },
-  {
-    "id": 10219,
-    "identifier": "urshifu-rapid-strike-gmax",
-    "species_id": 892
-  },
-  {
-    "id": 10220,
-    "identifier": "toxtricity-low-key-gmax",
-    "species_id": 849
   }
  ]

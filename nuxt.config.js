@@ -50,6 +50,10 @@ export default {
         : 'http://localhost:8888',
   },
 
+  content: {
+    dir: 'static/content',
+  },
+
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
 }

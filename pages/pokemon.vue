@@ -1,13 +1,7 @@
 <template>
   <CBox p="4">
     <CHeading as="h1">Testing Pkmn</CHeading>
-    <CFormControl>
-      <CStack>
-        <CFormLabel for="id_Lookup">Pokemon id:</CFormLabel>
-        <CInput name="id_Lookup" v-model="pkmnId" />
-        <CButton @click="handlePokemonSearch">Search</CButton>
-      </CStack>
-    </CFormControl>
+    <search-auto-complete @on-selection="handlePokemonSearch" />
     <CDivider my="4" />
     <CStack v-if="pokemon.id">
       <CHeading v-text="pokemon.identifier" />
@@ -76,13 +70,9 @@
 import {
   CBadge,
   CBox,
-  CButton,
   CDivider,
-  CFormControl,
-  CFormLabel,
   CHeading,
   CImage,
-  CInput,
   CStack,
   CTab,
   CTabList,
@@ -96,13 +86,9 @@ export default {
   components: {
     CBadge,
     CBox,
-    CButton,
     CDivider,
-    CFormControl,
-    CFormLabel,
     CHeading,
     CImage,
-    CInput,
     CStack,
     CTabs,
     CTab,
@@ -118,8 +104,8 @@ export default {
   },
 
   methods: {
-    async handlePokemonSearch() {
-      const foundPokemon = await this.$api.fetchPokemonById(this.pkmnId)
+    async handlePokemonSearch(id) {
+      const foundPokemon = await this.$api.fetchPokemonById(id)
       const efficacy = await this.$api.fetchPokemonEfficacy(foundPokemon.types)
 
       this.pokemon = { ...foundPokemon, efficacy }
