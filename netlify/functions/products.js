@@ -17,7 +17,7 @@ const handler = async (event) => {
     })
 
 
-    console.log('[product] 200 got data')
+    console.log('[product]:', response)
 
     return {
       statusCode: 200,
