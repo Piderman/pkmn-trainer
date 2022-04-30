@@ -17,11 +17,11 @@ const handler = async (event) => {
     })
 
 
-    console.log('[product]:', response)
+    console.log('[product] got:', response.data.result.length)
 
     return {
       statusCode: 200,
-      body: JSON.stringify(response.data.paging),
+      body: JSON.stringify(response.data.result[0]),
     }
   } catch (error) {
     console.log('[product] catch', error)
