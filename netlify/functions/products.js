@@ -9,16 +9,19 @@ const handler = async (event) => {
         "X-PF-Store-Id": process.env.PRINTFUL_STORE_ID,
         Authorization: `Basic ${process.env.PRINTFUL_TOKEN}`
       }
-    }).catch(() => {
+    }).catch((error) => {
+      console.log('[product] await error', error)
       return { statusCode: 500, body: error.toString() }
     })
 
 
+    console.log('[product] 200')
     return {
       statusCode: 200,
       body: JSON.stringify(response),
     }
   } catch (error) {
+    console.log('[product] catch', error)
     return { statusCode: 500, body: error.toString() }
   }
 }
