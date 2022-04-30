@@ -1,7 +1,5 @@
 const axios = require('axios')
 
-module.exports = { handler }
-
 const handler = async (event) => {
   try {
     const response = await axios.$get('https://api.printful.com/products', {
@@ -29,3 +27,5 @@ const handler = async (event) => {
     return { statusCode: 500, body: error.toString() }
   }
 }
+
+module.exports = { handler }
