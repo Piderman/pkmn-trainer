@@ -18,9 +18,10 @@ const handler = async (event) => {
 
 
     console.log('[product] 200')
+
     return {
       statusCode: 200,
-      body: JSON.stringify(response),
+      body: JSON.stringify(response.paging),
     }
   } catch (error) {
     console.log('[product] catch', error)
