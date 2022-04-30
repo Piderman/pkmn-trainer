@@ -3,6 +3,11 @@
     <div>
       <code>{{ typeData }}</code>
     </div>
+    <CButton @click="fetchPrintful">call printful</CButton>
+    <div>{{ printfulAPI }}</div>
+    <CButton @click="fetchPrintfulProxy">call printful proxy</CButton>
+    <div>{{ printfulProxy }}</div>
+    <hr />
     <CButton @click="fetchAll">all</CButton>
     <CButton @click="fetchFire">fire</CButton>
     <CButton @click="fetchGrass">grass</CButton>
@@ -129,6 +134,8 @@ export default {
 
   data () {
     return {
+      printfulAPI: 'N/A',
+      printfulProxy: 'N/A',
       typeData: null,
       showModal: false,
       mainStyles: {
@@ -155,6 +162,39 @@ export default {
     }
   },
   methods: {
+    async fetchPrintful() {
+      this.printfulAPI = 'loading...'
+      await this.$axios.$get('https://api.printful.com/products', {
+        headers: {
+          "X-PF-Store-Id": process.env.PRINTFUL_STORE_ID,
+          Authorization : `Basic ${process.env.PRINTFUL_TOKEN}`
+          }
+      })
+      .then(() => {
+        this.printfulAPI = 'loaded'
+
+      })
+      .catch(() => {
+
+        this.printfulAPI = 'failed'
+        })
+
+
+    },
+
+    async fetchPrintfulProxy() {
+      this.printfulProxy = 'loading...'
+      await this.$axios.$get('/api/products')
+      .then(() => {
+        this.printfulProxy = 'loaded'
+
+      })
+      .catch(() => {
+
+        this.printfulProxy = 'failed'
+        })
+    },
+
     async fetchAll() {
       const response = await this.$axios.$get('/api/pkmn_types')
 
